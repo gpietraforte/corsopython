@@ -1,0 +1,601 @@
+id_vendita,data,negozio,categoria,prodotto,quantita,prezzo_unitario
+1,2025-01-02,Roma Centro,Sport,Tappetino yoga,5,24.9
+2,2025-01-03,Roma Centro,Casa,Lampada,3,39.0
+3,2025-01-03,Milano,Sport,Tappetino yoga,5,24.9
+4,2025-01-03,Torino,Elettronica,Cuffie,2,59.9
+5,2025-01-04,Torino,Elettronica,Cuffie,4,59.9
+6,2025-01-06,Roma EUR,Elettronica,Cuffie,3,59.9
+7,2025-01-07,Roma Centro,Elettronica,Cavo USB-C,3,9.9
+8,2025-01-07,Napoli,Elettronica,Cuffie,3,59.9
+9,2025-01-08,Milano,Casa,Lampada,5,39.0
+10,2025-01-08,Roma EUR,Elettronica,Cavo USB-C,4,9.9
+11,2025-01-08,Milano,Elettronica,Cuffie,5,59.9
+12,2025-01-09,Milano,Elettronica,Cavo USB-C,4,9.9
+13,2025-01-09,Napoli,Sport,Scarpe running,3,99.0
+14,2025-01-09,Roma Centro,Libri,Manuale Python,3,34.9
+15,2025-01-10,Roma EUR,Casa,Set pentole,4,89.0
+16,2025-01-10,Roma EUR,Abbigliamento,T-shirt,2,14.9
+17,2025-01-12,Milano,Abbigliamento,Giacca,3,79.0
+18,2025-01-12,Milano,Sport,Scarpe running,4,99.0
+19,2025-01-13,Torino,Elettronica,Cavo USB-C,4,9.9
+20,2025-01-14,Roma Centro,Casa,Cuscino,4,19.9
+21,2025-01-14,Roma Centro,Sport,Tappetino yoga,2,24.9
+22,2025-01-16,Roma EUR,Sport,Tappetino yoga,2,24.9
+23,2025-01-16,Milano,Sport,Borraccia,1,12.5
+24,2025-01-16,Milano,Libri,Manuale Python,3,34.9
+25,2025-01-17,Napoli,Casa,Lampada,5,39.0
+26,2025-01-17,Milano,Casa,Cuscino,3,19.9
+27,2025-01-18,Roma EUR,Casa,Cuscino,2,19.9
+28,2025-01-19,Roma EUR,Casa,Cuscino,2,19.9
+29,2025-01-20,Napoli,Casa,Lampada,4,39.0
+30,2025-01-21,Napoli,Casa,Cuscino,3,19.9
+31,2025-01-22,Milano,Casa,Lampada,1,39.0
+32,2025-01-24,Napoli,Casa,Set pentole,5,89.0
+33,2025-01-24,Milano,Elettronica,Tablet,5,299.0
+34,2025-01-25,Napoli,Sport,Borraccia,1,12.5
+35,2025-01-25,Milano,Abbigliamento,Jeans,5,49.9
+36,2025-01-25,Roma EUR,Casa,Lampada,4,39.0
+37,2025-01-28,Roma EUR,Elettronica,Cuffie,1,59.9
+38,2025-01-29,Roma EUR,Abbigliamento,Jeans,1,49.9
+39,2025-01-29,Roma Centro,Casa,Set pentole,5,89.0
+40,2025-01-30,Roma EUR,Abbigliamento,T-shirt,5,14.9
+41,2025-01-31,Roma EUR,Sport,Scarpe running,2,99.0
+42,2025-01-31,Roma EUR,Libri,Romanzo,5,16.0
+43,2025-01-31,Roma EUR,Elettronica,Smartwatch,4,149.0
+44,2025-02-01,Roma EUR,Elettronica,Smartwatch,3,149.0
+45,2025-02-01,Milano,Elettronica,Cuffie,1,59.9
+46,2025-02-02,Roma EUR,Libri,Fumetto,5,7.5
+47,2025-02-02,Napoli,Elettronica,Cuffie,4,59.9
+48,2025-02-03,Milano,Libri,Fumetto,4,7.5
+49,2025-02-03,Milano,Libri,Manuale Python,1,34.9
+50,2025-02-03,Milano,Abbigliamento,T-shirt,3,14.9
+51,2025-02-04,Napoli,Sport,Tappetino yoga,5,24.9
+52,2025-02-04,Roma EUR,Sport,Tappetino yoga,3,24.9
+53,2025-02-04,Roma Centro,Libri,Romanzo,5,16.0
+54,2025-02-04,Roma EUR,Elettronica,Tablet,5,299.0
+55,2025-02-05,Milano,Sport,Tappetino yoga,1,24.9
+56,2025-02-05,Milano,Sport,Tappetino yoga,3,24.9
+57,2025-02-06,Roma Centro,Libri,Fumetto,4,7.5
+58,2025-02-07,Milano,Sport,Borraccia,1,12.5
+59,2025-02-07,Roma EUR,Sport,Tappetino yoga,1,24.9
+60,2025-02-08,Torino,Libri,Fumetto,2,7.5
+61,2025-02-08,Roma EUR,Libri,Fumetto,4,7.5
+62,2025-02-08,Roma EUR,Libri,Manuale Python,2,34.9
+63,2025-02-08,Napoli,Elettronica,Smartwatch,5,149.0
+64,2025-02-09,Roma EUR,Libri,Fumetto,1,7.5
+65,2025-02-09,Roma EUR,Casa,Cuscino,5,19.9
+66,2025-02-09,Napoli,Sport,Scarpe running,4,99.0
+67,2025-02-11,Milano,Casa,Set pentole,1,89.0
+68,2025-02-11,Torino,Abbigliamento,Jeans,5,49.9
+69,2025-02-12,Roma EUR,Libri,Romanzo,1,16.0
+70,2025-02-12,Torino,Libri,Fumetto,1,7.5
+71,2025-02-13,Roma Centro,Elettronica,Tablet,1,299.0
+72,2025-02-13,Milano,Libri,Fumetto,5,7.5
+73,2025-02-13,Torino,Libri,Fumetto,5,7.5
+74,2025-02-14,Roma EUR,Casa,Lampada,2,39.0
+75,2025-02-14,Roma Centro,Libri,Fumetto,5,7.5
+76,2025-02-15,Milano,Sport,Borraccia,4,12.5
+77,2025-02-16,Napoli,Casa,Cuscino,4,19.9
+78,2025-02-16,Torino,Abbigliamento,Jeans,4,49.9
+79,2025-02-16,Milano,Casa,Lampada,2,39.0
+80,2025-02-17,Roma EUR,Elettronica,Tablet,2,299.0
+81,2025-02-17,Roma EUR,Libri,Romanzo,4,16.0
+82,2025-02-18,Napoli,Abbigliamento,Jeans,3,49.9
+83,2025-02-18,Torino,Elettronica,Cavo USB-C,1,9.9
+84,2025-02-21,Napoli,Abbigliamento,Giacca,4,79.0
+85,2025-02-21,Roma Centro,Libri,Fumetto,5,7.5
+86,2025-02-21,Roma EUR,Casa,Cuscino,2,19.9
+87,2025-02-21,Napoli,Casa,Lampada,2,39.0
+88,2025-02-21,Torino,Casa,Lampada,2,39.0
+89,2025-02-21,Milano,Elettronica,Tablet,2,299.0
+90,2025-02-22,Roma Centro,Elettronica,Smartwatch,1,149.0
+91,2025-02-22,Napoli,Libri,Romanzo,4,16.0
+92,2025-02-22,Roma Centro,Casa,Set pentole,1,89.0
+93,2025-02-23,Milano,Elettronica,Cavo USB-C,2,9.9
+94,2025-02-24,Roma EUR,Sport,Borraccia,4,12.5
+95,2025-02-25,Roma Centro,Sport,Borraccia,1,12.5
+96,2025-02-25,Roma EUR,Abbigliamento,Jeans,4,49.9
+97,2025-02-25,Napoli,Abbigliamento,Jeans,1,49.9
+98,2025-02-25,Milano,Abbigliamento,Jeans,4,49.9
+99,2025-02-26,Roma EUR,Casa,Lampada,1,39.0
+100,2025-02-26,Milano,Abbigliamento,T-shirt,1,14.9
+101,2025-02-26,Napoli,Abbigliamento,Jeans,1,49.9
+102,2025-02-28,Milano,Casa,Set pentole,2,89.0
+103,2025-02-28,Roma Centro,Sport,Tappetino yoga,1,24.9
+104,2025-02-28,Napoli,Elettronica,Cuffie,2,59.9
+105,2025-03-02,Torino,Abbigliamento,Giacca,2,79.0
+106,2025-03-02,Roma Centro,Sport,Tappetino yoga,3,24.9
+107,2025-03-02,Milano,Libri,Fumetto,1,7.5
+108,2025-03-02,Roma Centro,Abbigliamento,Giacca,2,79.0
+109,2025-03-02,Roma Centro,Libri,Fumetto,4,7.5
+110,2025-03-02,Roma EUR,Libri,Manuale Python,4,34.9
+111,2025-03-04,Roma Centro,Abbigliamento,Jeans,3,49.9
+112,2025-03-05,Torino,Sport,Borraccia,1,12.5
+113,2025-03-05,Milano,Casa,Cuscino,3,19.9
+114,2025-03-05,Roma EUR,Sport,Tappetino yoga,4,24.9
+115,2025-03-06,Roma EUR,Casa,Lampada,5,39.0
+116,2025-03-07,Roma EUR,Elettronica,Cavo USB-C,2,9.9
+117,2025-03-07,Milano,Libri,Manuale Python,1,34.9
+118,2025-03-07,Napoli,Abbigliamento,T-shirt,3,14.9
+119,2025-03-08,Roma Centro,Elettronica,Cavo USB-C,3,9.9
+120,2025-03-08,Roma EUR,Casa,Lampada,2,39.0
+121,2025-03-08,Milano,Elettronica,Cuffie,4,59.9
+122,2025-03-10,Roma Centro,Casa,Cuscino,1,19.9
+123,2025-03-11,Roma Centro,Casa,Lampada,3,39.0
+124,2025-03-12,Roma Centro,Casa,Lampada,5,39.0
+125,2025-03-13,Milano,Abbigliamento,Jeans,1,49.9
+126,2025-03-13,Roma Centro,Casa,Cuscino,1,19.9
+127,2025-03-13,Milano,Libri,Manuale Python,5,34.9
+128,2025-03-14,Roma Centro,Sport,Scarpe running,5,99.0
+129,2025-03-14,Torino,Abbigliamento,T-shirt,1,14.9
+130,2025-03-15,Milano,Abbigliamento,Jeans,4,49.9
+131,2025-03-15,Roma Centro,Elettronica,Smartwatch,4,149.0
+132,2025-03-15,Napoli,Abbigliamento,Giacca,5,79.0
+133,2025-03-20,Roma Centro,Casa,Cuscino,3,19.9
+134,2025-03-23,Roma Centro,Abbigliamento,Giacca,1,79.0
+135,2025-03-24,Roma EUR,Libri,Romanzo,5,16.0
+136,2025-03-24,Roma Centro,Libri,Manuale Python,2,34.9
+137,2025-03-25,Napoli,Casa,Lampada,3,39.0
+138,2025-03-25,Milano,Sport,Tappetino yoga,5,24.9
+139,2025-03-26,Roma EUR,Casa,Set pentole,4,89.0
+140,2025-03-26,Roma EUR,Libri,Romanzo,1,16.0
+141,2025-03-27,Milano,Libri,Manuale Python,5,34.9
+142,2025-03-28,Torino,Abbigliamento,Giacca,2,79.0
+143,2025-03-28,Napoli,Casa,Lampada,1,39.0
+144,2025-03-28,Torino,Elettronica,Tablet,2,299.0
+145,2025-03-29,Roma Centro,Sport,Tappetino yoga,5,24.9
+146,2025-03-29,Milano,Casa,Cuscino,1,19.9
+147,2025-03-29,Roma EUR,Sport,Scarpe running,5,99.0
+148,2025-03-29,Napoli,Abbigliamento,Jeans,1,49.9
+149,2025-03-31,Roma Centro,Sport,Borraccia,3,12.5
+150,2025-03-31,Roma Centro,Abbigliamento,T-shirt,1,14.9
+151,2025-04-01,Roma Centro,Elettronica,Cavo USB-C,5,9.9
+152,2025-04-02,Roma EUR,Casa,Set pentole,4,89.0
+153,2025-04-02,Napoli,Elettronica,Cuffie,1,59.9
+154,2025-04-04,Napoli,Abbigliamento,Giacca,4,79.0
+155,2025-04-06,Roma EUR,Abbigliamento,T-shirt,2,14.9
+156,2025-04-06,Roma Centro,Abbigliamento,Jeans,5,49.9
+157,2025-04-07,Roma EUR,Sport,Borraccia,3,12.5
+158,2025-04-08,Napoli,Elettronica,Cavo USB-C,4,9.9
+159,2025-04-08,Roma EUR,Casa,Set pentole,3,89.0
+160,2025-04-09,Milano,Casa,Lampada,1,39.0
+161,2025-04-10,Roma Centro,Casa,Cuscino,2,19.9
+162,2025-04-11,Milano,Libri,Fumetto,3,7.5
+163,2025-04-11,Roma Centro,Libri,Manuale Python,1,34.9
+164,2025-04-11,Roma EUR,Libri,Romanzo,1,16.0
+165,2025-04-12,Roma Centro,Casa,Cuscino,2,19.9
+166,2025-04-12,Napoli,Sport,Tappetino yoga,2,24.9
+167,2025-04-12,Milano,Elettronica,Cuffie,3,59.9
+168,2025-04-13,Milano,Abbigliamento,Jeans,1,49.9
+169,2025-04-13,Torino,Libri,Manuale Python,2,34.9
+170,2025-04-13,Napoli,Sport,Tappetino yoga,2,24.9
+171,2025-04-14,Torino,Elettronica,Tablet,4,299.0
+172,2025-04-14,Milano,Libri,Manuale Python,5,34.9
+173,2025-04-14,Torino,Sport,Tappetino yoga,3,24.9
+174,2025-04-15,Napoli,Abbigliamento,Giacca,3,79.0
+175,2025-04-16,Roma Centro,Sport,Tappetino yoga,5,24.9
+176,2025-04-16,Roma EUR,Libri,Romanzo,4,16.0
+177,2025-04-16,Roma Centro,Sport,Tappetino yoga,4,24.9
+178,2025-04-17,Napoli,Libri,Romanzo,2,16.0
+179,2025-04-18,Roma Centro,Abbigliamento,T-shirt,4,14.9
+180,2025-04-18,Roma EUR,Elettronica,Cavo USB-C,1,9.9
+181,2025-04-19,Milano,Casa,Lampada,1,39.0
+182,2025-04-20,Roma Centro,Sport,Scarpe running,1,99.0
+183,2025-04-20,Napoli,Elettronica,Cuffie,4,59.9
+184,2025-04-20,Milano,Libri,Manuale Python,1,34.9
+185,2025-04-21,Milano,Libri,Manuale Python,5,34.9
+186,2025-04-21,Napoli,Sport,Scarpe running,2,99.0
+187,2025-04-21,Roma Centro,Elettronica,Cavo USB-C,1,9.9
+188,2025-04-22,Roma EUR,Abbigliamento,Giacca,4,79.0
+189,2025-04-23,Roma Centro,Libri,Romanzo,5,16.0
+190,2025-04-24,Roma Centro,Abbigliamento,Jeans,2,49.9
+191,2025-04-24,Roma Centro,Libri,Romanzo,2,16.0
+192,2025-04-24,Roma Centro,Elettronica,Smartwatch,4,149.0
+193,2025-04-25,Roma EUR,Abbigliamento,Jeans,2,49.9
+194,2025-04-25,Torino,Abbigliamento,T-shirt,1,14.9
+195,2025-04-26,Milano,Elettronica,Cuffie,1,59.9
+196,2025-04-26,Milano,Casa,Cuscino,1,19.9
+197,2025-04-26,Torino,Libri,Fumetto,2,7.5
+198,2025-04-27,Roma Centro,Elettronica,Cavo USB-C,1,9.9
+199,2025-04-27,Torino,Abbigliamento,Giacca,4,79.0
+200,2025-04-27,Napoli,Sport,Borraccia,2,12.5
+201,2025-04-28,Napoli,Sport,Borraccia,1,12.5
+202,2025-04-28,Milano,Casa,Cuscino,4,19.9
+203,2025-04-28,Napoli,Abbigliamento,Jeans,2,49.9
+204,2025-04-29,Roma EUR,Abbigliamento,T-shirt,3,14.9
+205,2025-05-01,Torino,Libri,Manuale Python,2,34.9
+206,2025-05-01,Torino,Casa,Set pentole,1,89.0
+207,2025-05-02,Napoli,Libri,Fumetto,2,7.5
+208,2025-05-02,Milano,Elettronica,Smartwatch,2,149.0
+209,2025-05-03,Roma Centro,Elettronica,Tablet,5,299.0
+210,2025-05-03,Roma Centro,Libri,Manuale Python,5,34.9
+211,2025-05-04,Roma EUR,Casa,Cuscino,5,19.9
+212,2025-05-06,Roma EUR,Abbigliamento,Giacca,2,79.0
+213,2025-05-07,Milano,Libri,Manuale Python,3,34.9
+214,2025-05-07,Roma Centro,Libri,Fumetto,4,7.5
+215,2025-05-10,Milano,Libri,Romanzo,3,16.0
+216,2025-05-11,Roma Centro,Elettronica,Smartwatch,5,149.0
+217,2025-05-13,Roma EUR,Libri,Fumetto,4,7.5
+218,2025-05-13,Roma EUR,Sport,Tappetino yoga,1,24.9
+219,2025-05-13,Milano,Abbigliamento,T-shirt,4,14.9
+220,2025-05-14,Milano,Libri,Fumetto,5,7.5
+221,2025-05-14,Roma Centro,Libri,Manuale Python,2,34.9
+222,2025-05-15,Roma Centro,Casa,Cuscino,4,19.9
+223,2025-05-16,Napoli,Libri,Manuale Python,5,34.9
+224,2025-05-16,Milano,Sport,Scarpe running,4,99.0
+225,2025-05-16,Roma EUR,Sport,Scarpe running,1,99.0
+226,2025-05-17,Milano,Sport,Scarpe running,3,99.0
+227,2025-05-17,Napoli,Libri,Manuale Python,4,34.9
+228,2025-05-17,Roma Centro,Abbigliamento,Giacca,3,79.0
+229,2025-05-19,Roma Centro,Sport,Borraccia,5,12.5
+230,2025-05-20,Roma Centro,Casa,Lampada,3,39.0
+231,2025-05-22,Milano,Sport,Borraccia,2,12.5
+232,2025-05-24,Roma Centro,Sport,Borraccia,3,12.5
+233,2025-05-26,Roma EUR,Libri,Fumetto,5,7.5
+234,2025-05-27,Napoli,Elettronica,Cuffie,1,59.9
+235,2025-05-28,Roma Centro,Elettronica,Tablet,4,299.0
+236,2025-05-29,Roma EUR,Libri,Manuale Python,2,34.9
+237,2025-05-30,Torino,Elettronica,Tablet,1,299.0
+238,2025-05-30,Roma Centro,Elettronica,Smartwatch,3,149.0
+239,2025-05-30,Milano,Libri,Manuale Python,4,34.9
+240,2025-05-30,Torino,Libri,Romanzo,2,16.0
+241,2025-05-31,Roma EUR,Libri,Manuale Python,3,34.9
+242,2025-06-01,Roma Centro,Libri,Romanzo,5,16.0
+243,2025-06-01,Roma Centro,Abbigliamento,Jeans,1,49.9
+244,2025-06-02,Roma Centro,Abbigliamento,Giacca,4,79.0
+245,2025-06-02,Milano,Libri,Manuale Python,1,34.9
+246,2025-06-02,Roma Centro,Abbigliamento,Giacca,1,79.0
+247,2025-06-02,Napoli,Sport,Scarpe running,2,99.0
+248,2025-06-05,Milano,Libri,Romanzo,3,16.0
+249,2025-06-06,Roma EUR,Casa,Set pentole,3,89.0
+250,2025-06-07,Milano,Casa,Cuscino,4,19.9
+251,2025-06-07,Roma Centro,Elettronica,Tablet,5,299.0
+252,2025-06-08,Milano,Elettronica,Smartwatch,2,149.0
+253,2025-06-08,Napoli,Elettronica,Smartwatch,4,149.0
+254,2025-06-08,Napoli,Elettronica,Smartwatch,2,149.0
+255,2025-06-08,Roma Centro,Abbigliamento,Giacca,2,79.0
+256,2025-06-08,Roma Centro,Libri,Fumetto,1,7.5
+257,2025-06-08,Roma Centro,Abbigliamento,Giacca,4,79.0
+258,2025-06-09,Torino,Casa,Cuscino,5,19.9
+259,2025-06-09,Milano,Casa,Set pentole,3,89.0
+260,2025-06-10,Milano,Casa,Set pentole,4,89.0
+261,2025-06-10,Milano,Libri,Manuale Python,5,34.9
+262,2025-06-10,Milano,Casa,Set pentole,5,89.0
+263,2025-06-11,Roma Centro,Libri,Romanzo,5,16.0
+264,2025-06-11,Torino,Elettronica,Tablet,3,299.0
+265,2025-06-12,Torino,Abbigliamento,Jeans,4,49.9
+266,2025-06-12,Roma EUR,Sport,Borraccia,5,12.5
+267,2025-06-13,Roma Centro,Sport,Borraccia,5,12.5
+268,2025-06-13,Napoli,Sport,Tappetino yoga,4,24.9
+269,2025-06-14,Torino,Casa,Set pentole,4,89.0
+270,2025-06-14,Roma Centro,Libri,Manuale Python,5,34.9
+271,2025-06-14,Milano,Casa,Lampada,4,39.0
+272,2025-06-15,Roma Centro,Elettronica,Cavo USB-C,5,9.9
+273,2025-06-16,Napoli,Abbigliamento,Jeans,1,49.9
+274,2025-06-16,Roma EUR,Sport,Borraccia,2,12.5
+275,2025-06-16,Milano,Sport,Scarpe running,2,99.0
+276,2025-06-17,Napoli,Sport,Scarpe running,5,99.0
+277,2025-06-17,Roma Centro,Abbigliamento,Giacca,1,79.0
+278,2025-06-18,Roma EUR,Elettronica,Smartwatch,3,149.0
+279,2025-06-18,Torino,Sport,Borraccia,3,12.5
+280,2025-06-18,Roma EUR,Sport,Borraccia,2,12.5
+281,2025-06-19,Milano,Abbigliamento,Jeans,5,49.9
+282,2025-06-20,Milano,Elettronica,Smartwatch,2,149.0
+283,2025-06-20,Torino,Abbigliamento,Jeans,1,49.9
+284,2025-06-20,Napoli,Abbigliamento,T-shirt,5,14.9
+285,2025-06-21,Roma Centro,Abbigliamento,Giacca,4,79.0
+286,2025-06-21,Napoli,Casa,Set pentole,4,89.0
+287,2025-06-21,Napoli,Sport,Tappetino yoga,1,24.9
+288,2025-06-22,Roma Centro,Elettronica,Cavo USB-C,1,9.9
+289,2025-06-22,Roma Centro,Elettronica,Smartwatch,5,149.0
+290,2025-06-23,Milano,Libri,Fumetto,4,7.5
+291,2025-06-23,Roma Centro,Elettronica,Smartwatch,4,149.0
+292,2025-06-26,Milano,Abbigliamento,Giacca,5,79.0
+293,2025-06-27,Milano,Elettronica,Cuffie,4,59.9
+294,2025-06-28,Roma Centro,Elettronica,Smartwatch,2,149.0
+295,2025-06-29,Roma Centro,Libri,Romanzo,3,16.0
+296,2025-06-29,Napoli,Libri,Fumetto,3,7.5
+297,2025-06-29,Roma EUR,Sport,Scarpe running,1,99.0
+298,2025-06-30,Roma Centro,Casa,Cuscino,4,19.9
+299,2025-06-30,Roma Centro,Sport,Borraccia,4,12.5
+300,2025-06-30,Torino,Casa,Cuscino,4,19.9
+301,2025-07-01,Milano,Elettronica,Smartwatch,4,149.0
+302,2025-07-01,Roma EUR,Elettronica,Cavo USB-C,4,9.9
+303,2025-07-02,Milano,Sport,Scarpe running,2,99.0
+304,2025-07-02,Roma EUR,Sport,Borraccia,1,12.5
+305,2025-07-02,Roma Centro,Casa,Lampada,3,39.0
+306,2025-07-02,Roma Centro,Abbigliamento,T-shirt,2,14.9
+307,2025-07-02,Torino,Casa,Lampada,2,39.0
+308,2025-07-04,Roma EUR,Casa,Cuscino,3,19.9
+309,2025-07-04,Torino,Elettronica,Tablet,2,299.0
+310,2025-07-04,Roma Centro,Casa,Lampada,2,39.0
+311,2025-07-04,Napoli,Sport,Tappetino yoga,4,24.9
+312,2025-07-05,Milano,Sport,Borraccia,5,12.5
+313,2025-07-07,Roma Centro,Sport,Scarpe running,4,99.0
+314,2025-07-07,Roma EUR,Casa,Set pentole,3,89.0
+315,2025-07-08,Roma Centro,Casa,Set pentole,2,89.0
+316,2025-07-09,Milano,Libri,Manuale Python,4,34.9
+317,2025-07-10,Roma Centro,Sport,Borraccia,4,12.5
+318,2025-07-10,Napoli,Elettronica,Smartwatch,4,149.0
+319,2025-07-11,Roma EUR,Elettronica,Cavo USB-C,5,9.9
+320,2025-07-12,Roma EUR,Casa,Set pentole,2,89.0
+321,2025-07-13,Roma EUR,Libri,Romanzo,5,16.0
+322,2025-07-13,Milano,Casa,Set pentole,5,89.0
+323,2025-07-14,Roma EUR,Casa,Lampada,1,39.0
+324,2025-07-15,Milano,Sport,Scarpe running,1,99.0
+325,2025-07-17,Roma Centro,Casa,Set pentole,1,89.0
+326,2025-07-17,Roma EUR,Elettronica,Cavo USB-C,3,9.9
+327,2025-07-18,Torino,Libri,Romanzo,1,16.0
+328,2025-07-18,Roma Centro,Elettronica,Cavo USB-C,1,9.9
+329,2025-07-19,Milano,Sport,Scarpe running,2,99.0
+330,2025-07-19,Torino,Sport,Scarpe running,4,99.0
+331,2025-07-19,Napoli,Abbigliamento,Giacca,4,79.0
+332,2025-07-19,Napoli,Casa,Cuscino,5,19.9
+333,2025-07-22,Napoli,Abbigliamento,Jeans,3,49.9
+334,2025-07-22,Napoli,Elettronica,Smartwatch,1,149.0
+335,2025-07-22,Roma Centro,Elettronica,Cavo USB-C,1,9.9
+336,2025-07-22,Roma Centro,Elettronica,Smartwatch,1,149.0
+337,2025-07-22,Roma Centro,Sport,Tappetino yoga,5,24.9
+338,2025-07-22,Napoli,Casa,Set pentole,5,89.0
+339,2025-07-23,Roma EUR,Abbigliamento,Jeans,5,49.9
+340,2025-07-24,Napoli,Libri,Romanzo,1,16.0
+341,2025-07-26,Roma EUR,Sport,Tappetino yoga,2,24.9
+342,2025-07-26,Torino,Elettronica,Cavo USB-C,2,9.9
+343,2025-07-26,Napoli,Elettronica,Smartwatch,5,149.0
+344,2025-07-27,Roma Centro,Abbigliamento,Jeans,3,49.9
+345,2025-07-27,Roma Centro,Casa,Cuscino,2,19.9
+346,2025-07-28,Roma EUR,Sport,Borraccia,2,12.5
+347,2025-07-28,Roma Centro,Elettronica,Tablet,2,299.0
+348,2025-07-29,Roma Centro,Elettronica,Cuffie,3,59.9
+349,2025-07-30,Milano,Abbigliamento,Jeans,1,49.9
+350,2025-07-31,Torino,Libri,Romanzo,2,16.0
+351,2025-07-31,Roma Centro,Libri,Romanzo,2,16.0
+352,2025-08-01,Milano,Abbigliamento,Giacca,4,79.0
+353,2025-08-01,Torino,Abbigliamento,Jeans,2,49.9
+354,2025-08-02,Milano,Libri,Manuale Python,2,34.9
+355,2025-08-03,Roma EUR,Abbigliamento,T-shirt,3,14.9
+356,2025-08-04,Milano,Abbigliamento,Jeans,5,49.9
+357,2025-08-04,Milano,Sport,Borraccia,5,12.5
+358,2025-08-05,Roma Centro,Sport,Borraccia,5,12.5
+359,2025-08-06,Milano,Casa,Cuscino,5,19.9
+360,2025-08-06,Roma Centro,Sport,Tappetino yoga,2,24.9
+361,2025-08-07,Roma EUR,Casa,Set pentole,1,89.0
+362,2025-08-07,Milano,Elettronica,Cuffie,2,59.9
+363,2025-08-09,Roma Centro,Casa,Lampada,3,39.0
+364,2025-08-09,Roma Centro,Sport,Scarpe running,4,99.0
+365,2025-08-10,Milano,Casa,Set pentole,4,89.0
+366,2025-08-10,Milano,Abbigliamento,T-shirt,4,14.9
+367,2025-08-12,Roma EUR,Casa,Lampada,1,39.0
+368,2025-08-13,Torino,Abbigliamento,T-shirt,4,14.9
+369,2025-08-15,Roma Centro,Libri,Manuale Python,1,34.9
+370,2025-08-17,Napoli,Abbigliamento,Jeans,1,49.9
+371,2025-08-18,Roma Centro,Casa,Set pentole,4,89.0
+372,2025-08-18,Roma EUR,Sport,Borraccia,2,12.5
+373,2025-08-18,Roma Centro,Casa,Set pentole,2,89.0
+374,2025-08-19,Milano,Abbigliamento,Giacca,4,79.0
+375,2025-08-19,Torino,Abbigliamento,T-shirt,1,14.9
+376,2025-08-20,Torino,Sport,Scarpe running,1,99.0
+377,2025-08-20,Napoli,Libri,Manuale Python,4,34.9
+378,2025-08-20,Roma Centro,Elettronica,Smartwatch,2,149.0
+379,2025-08-20,Milano,Sport,Tappetino yoga,3,24.9
+380,2025-08-21,Roma EUR,Sport,Tappetino yoga,1,24.9
+381,2025-08-23,Milano,Sport,Borraccia,4,12.5
+382,2025-08-23,Roma Centro,Elettronica,Tablet,4,299.0
+383,2025-08-24,Milano,Libri,Manuale Python,4,34.9
+384,2025-08-26,Roma EUR,Elettronica,Cavo USB-C,4,9.9
+385,2025-08-26,Torino,Sport,Borraccia,3,12.5
+386,2025-08-27,Roma Centro,Libri,Romanzo,3,16.0
+387,2025-08-27,Milano,Abbigliamento,Jeans,5,49.9
+388,2025-08-29,Milano,Casa,Set pentole,5,89.0
+389,2025-08-30,Roma Centro,Sport,Scarpe running,2,99.0
+390,2025-08-30,Milano,Sport,Tappetino yoga,2,24.9
+391,2025-08-30,Roma EUR,Libri,Manuale Python,4,34.9
+392,2025-08-30,Roma Centro,Abbigliamento,T-shirt,5,14.9
+393,2025-08-31,Milano,Abbigliamento,Giacca,2,79.0
+394,2025-08-31,Napoli,Elettronica,Tablet,2,299.0
+395,2025-08-31,Roma Centro,Libri,Manuale Python,5,34.9
+396,2025-08-31,Napoli,Casa,Cuscino,3,19.9
+397,2025-09-01,Roma Centro,Abbigliamento,T-shirt,5,14.9
+398,2025-09-01,Milano,Casa,Lampada,3,39.0
+399,2025-09-02,Roma Centro,Casa,Set pentole,5,89.0
+400,2025-09-02,Milano,Elettronica,Cuffie,3,59.9
+401,2025-09-03,Milano,Sport,Tappetino yoga,3,24.9
+402,2025-09-05,Milano,Abbigliamento,Jeans,1,49.9
+403,2025-09-05,Roma Centro,Casa,Lampada,3,39.0
+404,2025-09-05,Roma Centro,Sport,Tappetino yoga,1,24.9
+405,2025-09-06,Torino,Abbigliamento,Giacca,4,79.0
+406,2025-09-07,Milano,Sport,Tappetino yoga,2,24.9
+407,2025-09-07,Roma Centro,Libri,Fumetto,2,7.5
+408,2025-09-07,Milano,Abbigliamento,T-shirt,1,14.9
+409,2025-09-08,Roma Centro,Abbigliamento,T-shirt,3,14.9
+410,2025-09-09,Roma EUR,Libri,Fumetto,3,7.5
+411,2025-09-11,Roma EUR,Elettronica,Cavo USB-C,4,9.9
+412,2025-09-12,Roma EUR,Sport,Borraccia,1,12.5
+413,2025-09-12,Milano,Abbigliamento,Jeans,3,49.9
+414,2025-09-12,Roma Centro,Abbigliamento,Jeans,5,49.9
+415,2025-09-13,Milano,Abbigliamento,Giacca,1,79.0
+416,2025-09-13,Torino,Elettronica,Smartwatch,2,149.0
+417,2025-09-13,Napoli,Libri,Romanzo,2,16.0
+418,2025-09-14,Roma Centro,Sport,Tappetino yoga,4,24.9
+419,2025-09-15,Torino,Libri,Romanzo,2,16.0
+420,2025-09-16,Roma Centro,Abbigliamento,Jeans,4,49.9
+421,2025-09-19,Roma EUR,Libri,Manuale Python,3,34.9
+422,2025-09-19,Napoli,Casa,Cuscino,2,19.9
+423,2025-09-19,Roma EUR,Libri,Romanzo,4,16.0
+424,2025-09-19,Milano,Libri,Romanzo,2,16.0
+425,2025-09-20,Torino,Sport,Tappetino yoga,2,24.9
+426,2025-09-20,Roma Centro,Libri,Romanzo,3,16.0
+427,2025-09-21,Roma Centro,Casa,Set pentole,2,89.0
+428,2025-09-21,Roma Centro,Elettronica,Cavo USB-C,4,9.9
+429,2025-09-22,Milano,Elettronica,Cuffie,3,59.9
+430,2025-09-23,Roma EUR,Abbigliamento,Jeans,2,49.9
+431,2025-09-24,Milano,Libri,Manuale Python,4,34.9
+432,2025-09-26,Torino,Elettronica,Tablet,3,299.0
+433,2025-09-26,Roma Centro,Sport,Scarpe running,1,99.0
+434,2025-09-26,Roma EUR,Sport,Tappetino yoga,3,24.9
+435,2025-09-26,Milano,Abbigliamento,T-shirt,4,14.9
+436,2025-09-27,Roma Centro,Casa,Lampada,2,39.0
+437,2025-09-27,Roma Centro,Elettronica,Cavo USB-C,4,9.9
+438,2025-09-29,Roma EUR,Abbigliamento,Giacca,2,79.0
+439,2025-09-29,Roma Centro,Casa,Lampada,2,39.0
+440,2025-09-30,Roma Centro,Elettronica,Cuffie,3,59.9
+441,2025-09-30,Roma EUR,Abbigliamento,Jeans,3,49.9
+442,2025-09-30,Roma Centro,Casa,Cuscino,2,19.9
+443,2025-10-01,Roma EUR,Casa,Set pentole,3,89.0
+444,2025-10-01,Roma Centro,Elettronica,Cavo USB-C,5,9.9
+445,2025-10-02,Roma EUR,Casa,Set pentole,2,89.0
+446,2025-10-04,Milano,Sport,Borraccia,1,12.5
+447,2025-10-04,Torino,Elettronica,Cuffie,2,59.9
+448,2025-10-04,Roma EUR,Abbigliamento,Giacca,4,79.0
+449,2025-10-05,Milano,Elettronica,Cavo USB-C,5,9.9
+450,2025-10-05,Roma EUR,Abbigliamento,Giacca,4,79.0
+451,2025-10-06,Roma EUR,Abbigliamento,Giacca,5,79.0
+452,2025-10-07,Napoli,Elettronica,Cavo USB-C,5,9.9
+453,2025-10-07,Napoli,Libri,Romanzo,3,16.0
+454,2025-10-07,Roma Centro,Elettronica,Cuffie,4,59.9
+455,2025-10-08,Roma Centro,Elettronica,Tablet,2,299.0
+456,2025-10-08,Roma Centro,Sport,Tappetino yoga,1,24.9
+457,2025-10-09,Roma EUR,Libri,Fumetto,1,7.5
+458,2025-10-09,Roma Centro,Sport,Scarpe running,3,99.0
+459,2025-10-10,Roma Centro,Abbigliamento,Giacca,4,79.0
+460,2025-10-11,Roma EUR,Elettronica,Smartwatch,5,149.0
+461,2025-10-12,Milano,Libri,Fumetto,4,7.5
+462,2025-10-12,Roma Centro,Casa,Set pentole,5,89.0
+463,2025-10-12,Roma Centro,Sport,Scarpe running,2,99.0
+464,2025-10-12,Roma Centro,Casa,Set pentole,3,89.0
+465,2025-10-12,Roma Centro,Elettronica,Cuffie,4,59.9
+466,2025-10-13,Napoli,Sport,Borraccia,2,12.5
+467,2025-10-13,Milano,Abbigliamento,Jeans,2,49.9
+468,2025-10-14,Napoli,Abbigliamento,Giacca,2,79.0
+469,2025-10-14,Roma EUR,Elettronica,Smartwatch,3,149.0
+470,2025-10-14,Milano,Elettronica,Tablet,5,299.0
+471,2025-10-15,Napoli,Sport,Scarpe running,1,99.0
+472,2025-10-15,Napoli,Casa,Lampada,2,39.0
+473,2025-10-15,Roma Centro,Elettronica,Cuffie,2,59.9
+474,2025-10-17,Roma EUR,Sport,Borraccia,1,12.5
+475,2025-10-17,Roma Centro,Libri,Manuale Python,3,34.9
+476,2025-10-18,Roma Centro,Elettronica,Cavo USB-C,4,9.9
+477,2025-10-18,Milano,Sport,Tappetino yoga,2,24.9
+478,2025-10-18,Napoli,Elettronica,Cavo USB-C,3,9.9
+479,2025-10-18,Torino,Casa,Lampada,4,39.0
+480,2025-10-20,Roma EUR,Abbigliamento,Giacca,1,79.0
+481,2025-10-20,Napoli,Sport,Borraccia,2,12.5
+482,2025-10-21,Roma Centro,Libri,Fumetto,5,7.5
+483,2025-10-21,Roma Centro,Casa,Lampada,2,39.0
+484,2025-10-21,Roma Centro,Abbigliamento,T-shirt,3,14.9
+485,2025-10-21,Milano,Casa,Cuscino,4,19.9
+486,2025-10-21,Napoli,Sport,Scarpe running,1,99.0
+487,2025-10-22,Torino,Libri,Fumetto,3,7.5
+488,2025-10-23,Torino,Sport,Scarpe running,3,99.0
+489,2025-10-23,Roma Centro,Sport,Tappetino yoga,2,24.9
+490,2025-10-25,Milano,Sport,Borraccia,3,12.5
+491,2025-10-26,Milano,Elettronica,Cuffie,1,59.9
+492,2025-10-27,Roma Centro,Elettronica,Smartwatch,5,149.0
+493,2025-10-28,Milano,Libri,Manuale Python,4,34.9
+494,2025-10-29,Milano,Sport,Borraccia,1,12.5
+495,2025-10-29,Napoli,Sport,Scarpe running,2,99.0
+496,2025-10-29,Roma Centro,Libri,Romanzo,2,16.0
+497,2025-10-30,Torino,Casa,Lampada,2,39.0
+498,2025-10-30,Roma EUR,Casa,Lampada,5,39.0
+499,2025-10-30,Napoli,Sport,Scarpe running,5,99.0
+500,2025-10-30,Milano,Casa,Cuscino,1,19.9
+501,2025-10-31,Torino,Casa,Lampada,4,39.0
+502,2025-10-31,Roma EUR,Abbigliamento,Jeans,2,49.9
+503,2025-10-31,Roma EUR,Libri,Romanzo,2,16.0
+504,2025-10-31,Napoli,Abbigliamento,Giacca,3,79.0
+505,2025-10-31,Roma Centro,Abbigliamento,Jeans,1,49.9
+506,2025-11-01,Milano,Abbigliamento,T-shirt,4,14.9
+507,2025-11-02,Roma Centro,Libri,Fumetto,4,7.5
+508,2025-11-03,Torino,Abbigliamento,Giacca,1,79.0
+509,2025-11-03,Roma Centro,Elettronica,Smartwatch,3,149.0
+510,2025-11-03,Roma Centro,Elettronica,Tablet,5,299.0
+511,2025-11-04,Milano,Libri,Manuale Python,5,34.9
+512,2025-11-04,Milano,Libri,Fumetto,4,7.5
+513,2025-11-05,Roma Centro,Libri,Romanzo,5,16.0
+514,2025-11-06,Milano,Casa,Set pentole,3,89.0
+515,2025-11-07,Milano,Libri,Romanzo,2,16.0
+516,2025-11-07,Milano,Casa,Set pentole,3,89.0
+517,2025-11-08,Milano,Elettronica,Smartwatch,3,149.0
+518,2025-11-09,Roma Centro,Libri,Manuale Python,4,34.9
+519,2025-11-09,Milano,Casa,Lampada,3,39.0
+520,2025-11-09,Milano,Elettronica,Tablet,2,299.0
+521,2025-11-10,Roma Centro,Libri,Manuale Python,5,34.9
+522,2025-11-10,Roma EUR,Elettronica,Cavo USB-C,2,9.9
+523,2025-11-12,Roma Centro,Libri,Manuale Python,3,34.9
+524,2025-11-13,Milano,Libri,Manuale Python,2,34.9
+525,2025-11-13,Roma EUR,Casa,Set pentole,4,89.0
+526,2025-11-16,Milano,Libri,Fumetto,4,7.5
+527,2025-11-16,Napoli,Casa,Set pentole,2,89.0
+528,2025-11-18,Napoli,Elettronica,Tablet,1,299.0
+529,2025-11-20,Milano,Casa,Set pentole,4,89.0
+530,2025-11-21,Roma Centro,Abbigliamento,Giacca,1,79.0
+531,2025-11-21,Roma Centro,Sport,Scarpe running,4,99.0
+532,2025-11-22,Roma Centro,Abbigliamento,Giacca,4,79.0
+533,2025-11-22,Roma Centro,Sport,Borraccia,5,12.5
+534,2025-11-22,Napoli,Casa,Set pentole,4,89.0
+535,2025-11-22,Napoli,Abbigliamento,T-shirt,2,14.9
+536,2025-11-23,Milano,Libri,Romanzo,5,16.0
+537,2025-11-23,Roma Centro,Libri,Romanzo,5,16.0
+538,2025-11-24,Roma Centro,Elettronica,Smartwatch,5,149.0
+539,2025-11-24,Milano,Elettronica,Cavo USB-C,2,9.9
+540,2025-11-25,Milano,Elettronica,Cavo USB-C,2,9.9
+541,2025-11-26,Torino,Elettronica,Tablet,2,299.0
+542,2025-11-26,Napoli,Abbigliamento,Jeans,3,49.9
+543,2025-11-27,Napoli,Elettronica,Smartwatch,5,149.0
+544,2025-11-27,Milano,Casa,Lampada,3,39.0
+545,2025-11-28,Napoli,Elettronica,Cuffie,5,59.9
+546,2025-12-01,Napoli,Elettronica,Cuffie,1,59.9
+547,2025-12-01,Milano,Elettronica,Cuffie,1,59.9
+548,2025-12-01,Roma EUR,Sport,Borraccia,4,12.5
+549,2025-12-03,Roma Centro,Elettronica,Tablet,1,299.0
+550,2025-12-03,Torino,Sport,Borraccia,2,12.5
+551,2025-12-04,Roma EUR,Libri,Manuale Python,2,34.9
+552,2025-12-04,Roma EUR,Libri,Manuale Python,4,34.9
+553,2025-12-04,Milano,Sport,Borraccia,5,12.5
+554,2025-12-04,Roma EUR,Abbigliamento,Giacca,1,79.0
+555,2025-12-04,Milano,Casa,Set pentole,1,89.0
+556,2025-12-05,Roma EUR,Casa,Cuscino,4,19.9
+557,2025-12-05,Milano,Casa,Cuscino,1,19.9
+558,2025-12-05,Milano,Libri,Fumetto,1,7.5
+559,2025-12-05,Milano,Libri,Manuale Python,3,34.9
+560,2025-12-07,Milano,Libri,Romanzo,5,16.0
+561,2025-12-07,Roma Centro,Casa,Lampada,1,39.0
+562,2025-12-08,Roma Centro,Casa,Cuscino,4,19.9
+563,2025-12-08,Roma EUR,Casa,Cuscino,4,19.9
+564,2025-12-08,Milano,Libri,Fumetto,1,7.5
+565,2025-12-09,Roma Centro,Abbigliamento,Giacca,2,79.0
+566,2025-12-09,Milano,Sport,Borraccia,3,12.5
+567,2025-12-09,Roma EUR,Sport,Borraccia,2,12.5
+568,2025-12-10,Milano,Casa,Set pentole,3,89.0
+569,2025-12-12,Roma Centro,Sport,Scarpe running,5,99.0
+570,2025-12-13,Milano,Elettronica,Tablet,4,299.0
+571,2025-12-14,Napoli,Abbigliamento,Giacca,5,79.0
+572,2025-12-15,Roma EUR,Elettronica,Smartwatch,3,149.0
+573,2025-12-15,Roma EUR,Libri,Fumetto,2,7.5
+574,2025-12-16,Napoli,Casa,Lampada,3,39.0
+575,2025-12-17,Napoli,Sport,Tappetino yoga,4,24.9
+576,2025-12-17,Roma Centro,Casa,Set pentole,2,89.0
+577,2025-12-17,Roma Centro,Abbigliamento,T-shirt,3,14.9
+578,2025-12-18,Milano,Abbigliamento,Giacca,3,79.0
+579,2025-12-18,Napoli,Abbigliamento,Jeans,2,49.9
+580,2025-12-18,Milano,Casa,Set pentole,2,89.0
+581,2025-12-19,Roma Centro,Elettronica,Cuffie,4,59.9
+582,2025-12-20,Milano,Abbigliamento,Jeans,4,49.9
+583,2025-12-20,Roma Centro,Casa,Set pentole,1,89.0
+584,2025-12-20,Napoli,Elettronica,Smartwatch,5,149.0
+585,2025-12-20,Napoli,Sport,Scarpe running,5,99.0
+586,2025-12-21,Napoli,Casa,Lampada,5,39.0
+587,2025-12-21,Napoli,Sport,Scarpe running,5,99.0
+588,2025-12-22,Torino,Sport,Scarpe running,3,99.0
+589,2025-12-22,Roma Centro,Casa,Set pentole,5,89.0
+590,2025-12-23,Roma EUR,Sport,Tappetino yoga,3,24.9
+591,2025-12-24,Roma Centro,Casa,Cuscino,3,19.9
+592,2025-12-25,Napoli,Elettronica,Smartwatch,3,149.0
+593,2025-12-26,Roma Centro,Casa,Lampada,3,39.0
+594,2025-12-28,Milano,Abbigliamento,T-shirt,3,14.9
+595,2025-12-28,Roma Centro,Elettronica,Cuffie,4,59.9
+596,2025-12-29,Roma Centro,Casa,Cuscino,4,19.9
+597,2025-12-29,Roma EUR,Abbigliamento,Jeans,3,49.9
+598,2025-12-30,Roma Centro,Casa,Lampada,5,39.0
+599,2025-12-30,Milano,Libri,Manuale Python,1,34.9
+600,2025-12-31,Roma Centro,Casa,Cuscino,5,19.9

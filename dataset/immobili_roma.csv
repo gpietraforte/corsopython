@@ -1,0 +1,1201 @@
+zona,superficie_mq,locali,piano,anno_costruzione,ascensore,distanza_metro_km,stato,prezzo
+Trastevere,105,4,5,1921,1,4.69,Buono,556600
+Tiburtina,104,4,0,1940,1,0.48,Ristrutturato,358400
+Prati,84,2,4,1983,1,1.43,Buono,635000
+Tiburtina,91,2,1,2001,0,5.3,Buono,225300
+Tuscolana,49,2,3,2008,0,1.47,Buono,142800
+Prati,30,2,3,1909,1,0.36,Ristrutturato,180800
+EUR,90,2,6,1949,1,1.64,Ristrutturato,403600
+Tiburtina,95,2,6,1901,0,1.16,Ristrutturato,265000
+Tiburtina,121,3,3,2000,1,0.15,Da ristrutturare,349100
+Tiburtina,132,6,4,1915,1,0.45,Ristrutturato,478400
+San Giovanni,132,5,5,2001,0,0.1,Ristrutturato,730100
+Tiburtina,55,2,5,1919,1,0.28,Da ristrutturare,146200
+Tiburtina,74,3,5,1901,1,0.58,Buono,250200
+Centro Storico,99,3,6,2008,1,0.1,Buono,775700
+Ostia,161,7,7,1953,1,1.03,Buono,414700
+Trastevere,129,4,6,1952,1,0.3,Da ristrutturare,737100
+Centro Storico,119,3,1,1979,0,0.99,Buono,693600
+Trastevere,73,4,3,1933,1,1.42,Da ristrutturare,328900
+Trastevere,59,2,3,1984,1,0.93,Da ristrutturare,324700
+Centro Storico,109,3,4,1952,1,1.04,Buono,771500
+Tuscolana,52,2,4,1933,0,0.24,Ristrutturato,181100
+Parioli,78,2,5,1948,1,5.06,Buono,375000
+EUR,82,4,3,1900,1,0.45,Buono,322500
+Trastevere,133,6,2,1937,1,0.36,Ristrutturato,935100
+Monteverde,74,2,3,1972,1,2.72,Buono,313300
+Ostia,30,1,6,1916,1,1.62,Da ristrutturare,64500
+Ostia,100,3,2,1914,1,0.19,Buono,244400
+Parioli,64,2,0,1980,0,0.1,Buono,353100
+Monteverde,86,2,7,1952,1,0.46,Buono,405100
+Monteverde,82,2,1,1916,0,4.62,Buono,281900
+Trastevere,77,3,4,1991,1,1.88,Buono,443700
+San Giovanni,109,5,6,1995,0,0.85,Buono,386300
+Centro Storico,39,2,2,1904,1,0.1,Nuovo,334800
+Ostia,69,1,2,1924,1,0.51,Buono,175200
+Tuscolana,106,5,2,1945,1,0.43,Buono,372400
+Trastevere,67,1,1,1989,0,3.5,Buono,335800
+San Giovanni,37,2,1,1909,0,0.1,Ristrutturato,139400
+Trastevere,105,3,1,1999,0,0.1,Ristrutturato,718100
+Centro Storico,119,4,3,1939,0,1.32,Ristrutturato,1025100
+Tiburtina,84,2,4,1915,1,0.16,Buono,264200
+Ostia,30,2,0,2006,0,0.58,Buono,86400
+Tuscolana,106,3,6,1910,1,0.12,Ristrutturato,402100
+Tuscolana,35,2,5,1915,1,0.24,Buono,98700
+Trastevere,94,2,0,2016,0,0.5,Nuovo,632100
+Tuscolana,58,2,6,1963,1,1.11,Buono,161700
+San Giovanni,50,1,0,1956,0,1.63,Buono,212400
+Tiburtina,72,4,4,1984,1,0.97,Buono,261700
+Tiburtina,80,3,3,1977,1,0.1,Buono,268800
+Tuscolana,66,3,4,1975,1,0.6,Ristrutturato,264700
+Ostia,103,5,7,1902,1,0.22,Da ristrutturare,213700
+Prati,72,3,7,1967,1,0.23,Buono,477100
+Centro Storico,114,3,2,1934,0,0.76,Buono,842800
+Trastevere,93,2,4,1999,0,1.6,Ristrutturato,624300
+San Giovanni,64,1,7,1962,1,0.3,Buono,272000
+Tiburtina,59,3,5,1915,1,1.83,Nuovo,180300
+Trastevere,36,2,7,2009,1,1.62,Ristrutturato,289900
+San Giovanni,94,3,3,1934,1,3.11,Buono,350200
+Tuscolana,74,4,2,1933,1,2.36,Ristrutturato,218900
+EUR,30,1,4,2015,1,0.86,Nuovo,160400
+Trastevere,69,3,6,1995,1,0.26,Buono,411300
+San Giovanni,58,2,7,2005,0,1.37,Buono,247300
+Trastevere,132,4,5,1981,1,3.66,Buono,775000
+Tuscolana,34,1,5,2011,0,2.45,Buono,107900
+Tuscolana,42,2,4,1914,1,0.46,Da ristrutturare,122100
+San Giovanni,118,4,2,1973,1,4.35,Ristrutturato,503800
+Trastevere,126,3,3,1936,1,0.32,Buono,801800
+San Giovanni,63,2,3,1949,1,0.92,Buono,252000
+Prati,66,1,6,1929,1,0.77,Da ristrutturare,431100
+Trastevere,103,5,4,1925,1,2.34,Ristrutturato,601200
+Parioli,30,1,6,1954,1,0.71,Buono,173800
+Prati,30,1,0,2012,0,1.59,Buono,165200
+Centro Storico,77,3,6,1978,1,0.58,Buono,581900
+San Giovanni,131,6,4,1942,1,0.25,Da ristrutturare,402900
+Centro Storico,72,3,7,1953,1,1.92,Buono,527200
+Tiburtina,88,4,3,1965,1,0.89,Nuovo,291000
+Trastevere,119,4,3,1930,1,1.95,Buono,665400
+EUR,148,6,1,1964,1,0.91,Ristrutturato,626300
+Ostia,68,1,6,1985,1,0.5,Da ristrutturare,175800
+San Giovanni,84,2,5,1929,1,0.58,Ristrutturato,404800
+Ostia,140,5,6,1971,1,5.58,Buono,430300
+Ostia,39,2,0,1987,0,2.57,Buono,93500
+Centro Storico,116,5,1,1963,0,2.31,Buono,732600
+Parioli,54,3,7,1935,1,1.75,Da ristrutturare,255800
+San Giovanni,88,4,0,1968,0,0.22,Buono,325200
+Tuscolana,78,3,4,1997,1,1.24,Buono,264200
+Prati,56,1,3,1927,1,0.84,Buono,356400
+Prati,56,3,7,1970,1,1.13,Nuovo,443500
+Tuscolana,93,3,6,1983,1,0.63,Buono,400800
+Tuscolana,115,3,7,1939,1,2.41,Nuovo,482800
+Prati,81,2,2,1947,1,1.65,Buono,443700
+Trastevere,87,4,4,2009,1,1.21,Da ristrutturare,457600
+Tiburtina,102,3,5,1944,0,0.57,Buono,279700
+Prati,56,1,7,1973,1,0.75,Buono,399300
+EUR,107,5,0,1918,1,1.15,Buono,358800
+EUR,110,3,7,2013,0,0.1,Ristrutturato,504500
+Tiburtina,163,5,2,1973,0,0.85,Ristrutturato,514200
+EUR,74,4,1,1993,0,1.62,Buono,319100
+Trastevere,71,3,4,1974,0,1.95,Buono,440400
+Parioli,108,5,6,1943,1,0.65,Buono,737000
+Ostia,110,4,1,1941,0,0.59,Buono,300700
+Prati,69,1,0,1986,1,4.59,Da ristrutturare,328400
+Parioli,73,2,7,2005,1,0.22,Da ristrutturare,453600
+Parioli,101,5,7,1915,1,0.75,Buono,541400
+Tuscolana,60,1,1,2003,0,0.76,Da ristrutturare,145900
+Tuscolana,73,3,7,2002,1,1.25,Ristrutturato,314100
+San Giovanni,88,3,7,1913,1,1.04,Da ristrutturare,276000
+Prati,115,4,7,1913,0,1.04,Da ristrutturare,552200
+Ostia,67,3,1,1985,0,0.56,Nuovo,238000
+Trastevere,30,1,4,2003,1,1.71,Nuovo,240000
+Monteverde,30,1,7,1948,1,1.95,Buono,139700
+EUR,47,2,7,1978,1,1.88,Buono,223100
+Tuscolana,46,2,4,2022,1,0.74,Ristrutturato,191800
+Monteverde,80,4,1,1939,0,1.09,Da ristrutturare,256200
+Parioli,49,1,0,1927,0,0.32,Buono,265900
+Ostia,64,1,2,2021,1,1.1,Da ristrutturare,157100
+Parioli,62,2,0,1934,0,1.09,Buono,324400
+EUR,72,3,1,1958,1,0.7,Nuovo,459700
+Parioli,125,3,0,1954,1,4.04,Ristrutturato,751400
+Tiburtina,105,5,6,1964,1,0.36,Nuovo,443200
+Parioli,85,3,4,1933,1,0.1,Ristrutturato,541700
+Tiburtina,71,2,4,1983,1,3.8,Buono,226600
+San Giovanni,72,4,6,1985,1,2.34,Ristrutturato,366900
+Ostia,95,4,3,1924,1,0.17,Ristrutturato,315200
+Tuscolana,103,4,3,1959,1,0.66,Buono,357800
+Centro Storico,58,1,1,1907,0,0.21,Buono,390500
+Tuscolana,86,2,3,1927,1,1.05,Buono,303300
+Prati,30,1,1,2021,1,0.2,Buono,205700
+San Giovanni,91,2,4,1962,1,1.16,Buono,380000
+EUR,108,4,7,1976,1,0.44,Da ristrutturare,456400
+Tiburtina,77,2,4,2009,1,3.18,Buono,220800
+Ostia,139,4,2,1987,0,0.73,Buono,371700
+Monteverde,59,2,5,1997,1,1.18,Buono,276300
+Trastevere,92,4,6,1987,1,0.42,Buono,516800
+Tuscolana,84,4,3,1961,1,0.76,Da ristrutturare,260000
+EUR,82,2,2,1977,1,0.1,Nuovo,423400
+Parioli,82,2,5,1935,0,0.4,Buono,450600
+EUR,88,3,1,2009,0,1.01,Buono,364300
+San Giovanni,110,4,7,1922,1,0.35,Da ristrutturare,390400
+Tiburtina,126,5,2,2008,1,0.2,Ristrutturato,457200
+Monteverde,85,4,2,2008,0,0.1,Buono,378300
+Parioli,109,4,5,1917,1,0.59,Buono,633400
+EUR,64,1,0,1987,0,2.44,Buono,241100
+Tuscolana,108,3,1,2021,0,1.49,Ristrutturato,372300
+Trastevere,62,1,1,1970,0,4.1,Nuovo,427400
+Parioli,118,4,3,1941,0,1.48,Buono,537100
+Tuscolana,151,4,4,2008,1,0.55,Da ristrutturare,465400
+Trastevere,81,2,1,1963,0,2.31,Da ristrutturare,353000
+Tuscolana,30,2,2,1914,1,1.69,Da ristrutturare,80100
+Tuscolana,69,3,6,1930,1,0.77,Ristrutturato,228100
+Tuscolana,122,4,7,1983,1,6.05,Nuovo,450300
+San Giovanni,102,5,0,1956,0,3.66,Nuovo,441600
+Ostia,92,4,5,1926,0,0.15,Ristrutturato,301400
+Tuscolana,115,5,0,1998,0,3.76,Da ristrutturare,301800
+Parioli,100,5,4,1914,1,0.98,Nuovo,643300
+Centro Storico,122,3,7,1926,1,1.21,Buono,820300
+EUR,113,5,6,1957,1,1.72,Buono,518700
+Tiburtina,131,6,1,1904,0,0.21,Ristrutturato,353200
+San Giovanni,96,4,2,1947,1,0.89,Da ristrutturare,329900
+Centro Storico,112,4,6,2011,1,0.22,Ristrutturato,1007400
+San Giovanni,76,4,6,2015,1,0.68,Nuovo,425600
+Prati,67,3,2,2007,1,0.12,Ristrutturato,619100
+San Giovanni,136,6,0,1939,0,0.74,Ristrutturato,549500
+San Giovanni,91,4,3,1907,0,0.25,Buono,348300
+Tiburtina,109,5,4,2000,1,0.86,Da ristrutturare,289500
+Trastevere,89,3,3,1945,1,1.27,Ristrutturato,600600
+Trastevere,67,3,7,1992,1,3.42,Buono,432400
+Tiburtina,85,3,6,1914,1,1.1,Nuovo,297000
+Ostia,128,6,6,1982,1,1.31,Da ristrutturare,329900
+Monteverde,102,5,0,1972,0,0.1,Buono,398000
+EUR,34,2,6,2013,0,1.15,Buono,135900
+Trastevere,79,3,6,1912,1,0.65,Ristrutturato,549800
+EUR,138,5,3,1950,1,1.07,Ristrutturato,620900
+San Giovanni,79,2,4,2021,1,0.32,Nuovo,365400
+Prati,31,1,6,1947,1,0.65,Buono,226000
+Trastevere,142,5,7,1980,1,2.55,Buono,810100
+Prati,105,4,4,1919,1,1.15,Da ristrutturare,515400
+San Giovanni,83,4,0,1989,1,1.99,Buono,386600
+Monteverde,74,4,4,1933,1,0.84,Buono,311200
+Tuscolana,117,3,5,1970,1,0.17,Buono,415200
+Trastevere,69,2,0,2008,1,0.1,Buono,394500
+Centro Storico,119,5,6,1981,1,0.82,Buono,792900
+Parioli,101,5,1,1958,1,1.0,Buono,591500
+Prati,92,4,7,1923,1,0.46,Ristrutturato,660900
+Ostia,89,4,4,1941,1,0.95,Buono,258100
+Tuscolana,80,4,2,2004,1,1.84,Buono,267200
+San Giovanni,116,5,0,1926,0,0.68,Ristrutturato,476000
+Prati,59,2,0,1980,0,1.5,Ristrutturato,329000
+Centro Storico,36,1,5,1959,1,3.74,Ristrutturato,279100
+Tuscolana,103,4,3,1939,1,2.12,Buono,329500
+EUR,104,5,6,1988,1,0.59,Buono,561200
+Prati,99,3,1,1944,0,0.31,Nuovo,715000
+Prati,97,4,7,1935,1,0.97,Buono,561500
+Parioli,75,3,7,1965,1,2.39,Buono,454600
+Tiburtina,109,5,0,1993,0,1.33,Nuovo,390700
+Monteverde,84,2,5,2006,1,3.24,Da ristrutturare,326700
+Parioli,70,3,7,1977,1,3.43,Ristrutturato,470800
+Tiburtina,76,3,2,1981,1,0.8,Ristrutturato,243200
+Centro Storico,146,5,0,1996,0,1.84,Da ristrutturare,729300
+Centro Storico,33,1,7,1933,1,0.81,Ristrutturato,270500
+Centro Storico,100,4,3,1930,1,0.1,Buono,779100
+Tuscolana,35,2,0,1959,0,6.73,Ristrutturato,100500
+San Giovanni,82,2,6,1977,1,1.09,Nuovo,481100
+Monteverde,72,4,5,1979,1,0.78,Ristrutturato,403800
+Centro Storico,30,2,0,1918,0,0.11,Da ristrutturare,163900
+Centro Storico,97,2,2,1996,1,0.36,Ristrutturato,777400
+Monteverde,74,2,0,1944,0,0.39,Nuovo,374200
+Prati,30,1,7,2007,1,1.48,Buono,224600
+Prati,110,5,0,1989,0,2.55,Buono,656100
+San Giovanni,128,6,6,2020,1,0.1,Da ristrutturare,542500
+Tiburtina,130,6,4,1977,1,1.22,Ristrutturato,445700
+Parioli,96,4,4,1964,1,0.11,Da ristrutturare,509000
+Trastevere,86,3,6,1923,1,0.49,Buono,500500
+Tiburtina,125,4,7,1949,1,6.25,Nuovo,410500
+Trastevere,135,4,1,2005,0,1.2,Nuovo,1077900
+EUR,119,4,0,1946,1,0.84,Nuovo,493300
+Centro Storico,57,1,0,1906,0,2.63,Buono,325500
+Trastevere,91,2,5,1930,0,1.46,Da ristrutturare,414400
+Monteverde,98,5,4,1973,1,0.35,Buono,401800
+Tiburtina,31,2,0,1977,0,0.99,Da ristrutturare,80600
+Monteverde,99,4,1,2021,0,1.03,Ristrutturato,449800
+Prati,153,4,4,2014,1,1.04,Buono,1000000
+Centro Storico,104,3,5,1965,1,0.49,Buono,893100
+San Giovanni,129,4,2,1968,1,1.3,Da ristrutturare,492300
+Prati,90,4,7,1998,1,0.68,Buono,656900
+San Giovanni,83,2,7,1905,1,3.0,Ristrutturato,356100
+Tuscolana,96,2,6,1973,1,0.38,Ristrutturato,384500
+EUR,61,3,3,1958,1,1.34,Da ristrutturare,253900
+San Giovanni,56,3,7,1996,1,1.28,Da ristrutturare,230600
+Tiburtina,123,5,5,1998,1,0.56,Buono,391100
+Prati,126,3,4,1980,1,0.25,Da ristrutturare,635900
+Monteverde,55,2,3,1980,1,0.11,Nuovo,333800
+Parioli,114,3,6,1985,1,1.22,Ristrutturato,820400
+Monteverde,82,4,4,1971,1,0.65,Da ristrutturare,280800
+Tiburtina,95,2,1,1928,1,0.76,Ristrutturato,318400
+Prati,99,5,7,1934,1,0.6,Buono,612400
+Ostia,115,4,0,1991,0,0.17,Buono,341200
+Prati,87,4,5,1976,1,0.73,Buono,595500
+San Giovanni,127,5,5,1929,0,0.1,Da ristrutturare,403400
+Tuscolana,94,2,4,2007,1,0.55,Buono,364100
+Tuscolana,104,5,0,2020,0,0.87,Ristrutturato,370300
+Monteverde,60,2,3,1977,1,2.84,Nuovo,307200
+Trastevere,150,5,7,1928,0,0.17,Buono,818200
+San Giovanni,99,4,1,2015,1,1.08,Buono,469700
+EUR,106,4,5,1929,1,0.52,Buono,436200
+Tuscolana,37,1,6,1953,1,1.96,Buono,137200
+Trastevere,60,1,7,2005,1,0.32,Buono,462100
+Ostia,122,3,4,1964,1,0.63,Buono,340600
+EUR,94,2,2,1929,1,1.5,Da ristrutturare,242900
+Ostia,30,1,5,1909,1,0.49,Nuovo,111600
+Parioli,116,5,3,1944,1,1.9,Ristrutturato,727000
+Ostia,69,1,5,1982,1,0.1,Buono,201100
+Centro Storico,127,4,5,1987,1,0.34,Ristrutturato,1054100
+Prati,82,2,5,1927,1,0.1,Da ristrutturare,419500
+EUR,91,4,1,1919,1,1.57,Ristrutturato,433500
+Trastevere,120,4,6,1986,1,0.62,Buono,787200
+Ostia,58,1,4,1919,0,1.05,Da ristrutturare,139500
+EUR,55,2,7,1907,1,0.11,Ristrutturato,267900
+Centro Storico,79,2,5,1959,1,1.01,Buono,561900
+EUR,110,3,7,1970,1,0.38,Buono,490700
+Trastevere,45,1,7,1929,1,1.27,Buono,275000
+San Giovanni,35,2,7,1925,1,0.42,Da ristrutturare,132300
+Tiburtina,110,3,5,1928,1,0.58,Da ristrutturare,305300
+Parioli,67,2,4,1942,1,0.62,Buono,395300
+Tiburtina,73,4,0,1901,1,6.7,Buono,165500
+Tiburtina,30,2,3,1901,0,2.37,Da ristrutturare,67400
+Ostia,65,2,3,1945,1,0.1,Buono,182500
+San Giovanni,85,2,6,1902,0,0.49,Buono,289200
+Monteverde,113,4,4,1939,1,2.61,Ristrutturato,480900
+Parioli,62,1,3,1971,1,1.03,Ristrutturato,420400
+Ostia,135,5,1,1903,0,1.54,Buono,339300
+Centro Storico,64,1,5,1975,1,0.3,Buono,538500
+Prati,65,2,3,1976,1,0.11,Buono,383000
+Monteverde,131,5,0,1970,0,0.35,Buono,518700
+Trastevere,91,4,2,1977,0,3.81,Da ristrutturare,393200
+Tiburtina,68,2,7,1999,1,0.98,Da ristrutturare,209500
+Tiburtina,80,4,0,1908,0,0.65,Ristrutturato,224800
+Tiburtina,126,4,3,1920,1,1.19,Buono,349400
+Parioli,129,6,4,1938,1,1.36,Buono,669500
+Prati,60,2,0,1984,0,1.37,Buono,367400
+Centro Storico,84,4,1,2007,0,0.49,Buono,594100
+Monteverde,88,3,7,2012,1,5.92,Ristrutturato,383300
+Parioli,55,3,4,1971,1,0.3,Ristrutturato,384500
+San Giovanni,83,3,1,1950,0,2.5,Da ristrutturare,279200
+Trastevere,85,3,1,1950,0,0.66,Ristrutturato,481000
+Prati,119,4,3,1907,1,1.04,Buono,636400
+Trastevere,121,5,5,1957,1,1.18,Buono,802200
+Centro Storico,75,3,5,1963,1,0.21,Ristrutturato,635600
+Prati,79,2,1,1925,0,0.39,Ristrutturato,520300
+Prati,105,5,5,1994,1,1.28,Buono,724200
+Monteverde,67,3,7,1999,0,2.04,Nuovo,368600
+San Giovanni,103,3,1,1937,0,1.06,Buono,372400
+Tuscolana,82,4,0,2012,1,2.91,Buono,287700
+Trastevere,56,2,7,1913,1,0.72,Da ristrutturare,301200
+Parioli,56,1,4,2012,1,0.56,Buono,402400
+Tiburtina,128,5,6,1994,0,2.1,Buono,353500
+Tuscolana,80,4,2,1927,1,0.1,Buono,288400
+San Giovanni,134,4,2,1979,1,2.02,Buono,537800
+Centro Storico,70,3,1,1938,0,0.35,Ristrutturato,480800
+EUR,94,3,1,1998,0,1.16,Buono,387500
+Tuscolana,157,5,3,1919,0,0.1,Ristrutturato,575200
+San Giovanni,53,2,0,1930,0,0.47,Ristrutturato,229500
+Tuscolana,30,1,6,1937,0,3.44,Ristrutturato,96300
+San Giovanni,124,5,4,1924,1,1.44,Ristrutturato,581600
+Centro Storico,60,3,7,1940,1,0.4,Ristrutturato,498900
+Monteverde,84,2,4,1974,1,0.24,Da ristrutturare,315300
+Ostia,67,3,2,1977,1,0.61,Ristrutturato,210400
+Ostia,93,3,4,1968,1,0.29,Nuovo,362200
+Tuscolana,56,1,1,1923,0,2.59,Buono,155800
+Prati,80,4,6,1924,1,1.24,Buono,429900
+Tuscolana,98,4,5,2013,0,1.22,Nuovo,449900
+Parioli,55,2,1,1930,0,2.75,Da ristrutturare,227400
+Tuscolana,64,3,4,1912,1,1.2,Buono,226300
+Prati,75,2,4,1955,1,6.05,Da ristrutturare,300000
+San Giovanni,42,1,1,1900,0,0.53,Buono,146900
+Ostia,72,4,0,1942,0,1.14,Buono,173800
+Centro Storico,89,2,6,2005,0,0.32,Buono,620200
+Centro Storico,73,2,2,1932,1,0.94,Nuovo,595800
+Monteverde,77,2,4,1986,1,0.68,Buono,408900
+Centro Storico,84,4,1,1960,1,0.24,Buono,611200
+Tiburtina,65,1,5,1943,1,0.38,Ristrutturato,212700
+Tuscolana,106,3,0,1981,0,0.53,Ristrutturato,329500
+Tiburtina,128,5,2,1973,1,0.85,Buono,345900
+Trastevere,71,2,4,1939,1,1.45,Da ristrutturare,332000
+Trastevere,100,4,3,1927,1,0.5,Buono,545500
+Tiburtina,78,3,4,2012,1,0.31,Ristrutturato,290500
+San Giovanni,96,3,1,1920,0,2.37,Buono,272400
+San Giovanni,132,5,3,2018,1,3.34,Buono,540600
+Prati,100,5,6,1957,1,0.73,Ristrutturato,785100
+Tiburtina,32,1,2,2022,1,0.73,Ristrutturato,132700
+Ostia,99,4,1,1943,0,0.1,Buono,224300
+Ostia,122,3,6,1969,1,0.38,Ristrutturato,392800
+Centro Storico,78,2,6,1975,1,0.34,Ristrutturato,627300
+Ostia,115,3,5,1941,1,1.01,Ristrutturato,371700
+Ostia,64,1,6,1926,1,0.16,Ristrutturato,186500
+Prati,40,1,6,1964,1,0.48,Ristrutturato,335500
+Monteverde,89,2,5,1981,1,1.54,Buono,405300
+San Giovanni,32,1,4,1932,0,1.35,Buono,119200
+Trastevere,78,2,0,1994,0,0.43,Ristrutturato,578100
+Ostia,124,4,4,1978,1,0.17,Buono,380900
+San Giovanni,30,1,2,1920,1,0.47,Buono,122000
+San Giovanni,47,1,6,2015,1,0.85,Da ristrutturare,172700
+EUR,54,1,3,1905,1,0.93,Ristrutturato,210700
+Tuscolana,83,2,7,1980,1,0.12,Buono,294200
+Tuscolana,74,2,4,1954,1,0.56,Buono,298300
+Prati,127,5,4,1980,1,2.24,Buono,838500
+Ostia,114,4,7,1995,1,3.48,Buono,340600
+Centro Storico,100,5,3,1984,0,3.56,Nuovo,745000
+EUR,89,3,3,1980,0,0.1,Ristrutturato,458100
+Tuscolana,97,3,2,2003,1,3.16,Buono,287700
+Prati,59,3,7,1986,0,1.91,Buono,321000
+EUR,111,3,6,2000,1,1.25,Ristrutturato,552300
+Parioli,52,3,1,1949,0,0.79,Buono,334000
+Ostia,110,5,3,1924,0,0.33,Nuovo,415000
+Trastevere,121,4,2,1928,1,1.07,Da ristrutturare,555300
+San Giovanni,91,4,5,1975,1,0.15,Da ristrutturare,327800
+Tuscolana,80,2,0,1965,1,0.1,Buono,236600
+San Giovanni,97,4,5,1909,1,3.02,Buono,358300
+Ostia,30,1,5,1925,1,0.34,Buono,86200
+Centro Storico,94,2,1,2019,0,2.79,Ristrutturato,745800
+Parioli,82,2,1,1989,0,0.21,Da ristrutturare,450300
+Tuscolana,83,4,5,1992,1,0.36,Buono,302100
+Monteverde,106,4,2,1924,1,0.25,Ristrutturato,518700
+Tiburtina,83,2,7,1907,1,0.65,Ristrutturato,260300
+EUR,51,2,6,1935,0,2.33,Buono,203500
+Prati,81,4,7,2005,1,2.82,Buono,508300
+Monteverde,87,3,4,1962,1,0.8,Buono,402700
+Ostia,88,2,7,1996,1,1.33,Buono,284600
+Parioli,90,2,0,1959,0,0.12,Ristrutturato,578200
+San Giovanni,116,3,2,1960,1,0.11,Buono,524900
+Tiburtina,52,3,0,1973,0,1.99,Buono,127200
+Trastevere,90,4,5,2017,1,0.62,Ristrutturato,604300
+Tuscolana,124,5,4,1953,1,1.7,Buono,401100
+Prati,33,1,2,1973,1,0.65,Da ristrutturare,159000
+Parioli,90,4,2,2013,1,0.93,Buono,558200
+Centro Storico,67,2,5,1945,1,1.17,Nuovo,576300
+Tiburtina,74,3,1,2003,0,0.73,Ristrutturato,280400
+Tiburtina,58,1,4,1965,1,0.6,Buono,186500
+Tuscolana,80,3,4,2008,1,0.6,Ristrutturato,356900
+San Giovanni,140,5,1,1957,1,0.18,Buono,599900
+Prati,47,1,1,1977,0,1.45,Buono,264300
+Trastevere,50,2,2,1939,1,0.2,Buono,296000
+Centro Storico,46,3,4,1978,1,0.28,Buono,370500
+Tiburtina,137,5,2,1940,1,0.65,Buono,448800
+Tiburtina,71,3,3,1974,1,0.66,Nuovo,280000
+Monteverde,84,2,4,1997,1,0.57,Buono,346100
+EUR,73,2,1,1953,0,2.09,Ristrutturato,266800
+EUR,57,1,4,1952,1,0.43,Ristrutturato,270000
+Centro Storico,78,2,1,1939,0,2.51,Buono,387400
+Trastevere,159,7,1,1989,0,1.07,Da ristrutturare,891600
+Trastevere,127,6,1,1972,0,0.98,Buono,749800
+Ostia,59,2,2,1963,1,1.14,Da ristrutturare,136100
+Ostia,104,4,0,1903,0,0.28,Buono,232900
+Prati,60,2,7,1913,1,1.1,Nuovo,487700
+Parioli,32,1,2,1900,1,1.98,Ristrutturato,172100
+San Giovanni,116,4,6,2004,1,1.36,Da ristrutturare,410000
+EUR,120,4,7,2004,1,0.11,Buono,547600
+Centro Storico,116,5,6,1908,1,0.57,Da ristrutturare,682000
+Monteverde,71,3,6,1905,1,0.1,Nuovo,393700
+Ostia,80,3,0,1996,1,0.54,Buono,263400
+San Giovanni,107,4,2,1964,1,0.19,Buono,495200
+EUR,97,2,5,1937,1,0.74,Buono,411100
+Monteverde,73,2,4,1975,1,0.1,Buono,367500
+Centro Storico,36,1,0,1929,1,3.27,Buono,209500
+Trastevere,88,3,4,1924,1,0.47,Ristrutturato,486500
+Monteverde,117,5,6,1945,1,1.73,Da ristrutturare,404700
+Tuscolana,49,3,6,2010,1,0.3,Da ristrutturare,147500
+Parioli,104,5,3,1994,1,1.53,Da ristrutturare,528500
+Tiburtina,95,2,1,1923,1,0.52,Buono,253500
+Prati,108,5,2,1969,1,1.15,Nuovo,815300
+Prati,111,5,2,2008,1,3.29,Buono,715300
+EUR,64,2,2,2017,1,1.31,Ristrutturato,364100
+Monteverde,36,1,2,1993,0,0.17,Buono,137100
+Tiburtina,69,2,3,1915,0,2.69,Ristrutturato,177500
+Trastevere,112,5,0,1929,0,1.59,Nuovo,669500
+Parioli,69,3,2,1926,1,2.35,Buono,399100
+Prati,64,2,2,1918,1,2.73,Nuovo,431600
+Parioli,30,1,1,1921,0,0.36,Buono,151800
+Prati,138,5,7,1938,1,0.48,Ristrutturato,1043900
+Prati,110,3,5,1968,1,1.72,Buono,749700
+Tiburtina,108,4,7,1948,1,0.1,Buono,348500
+Prati,114,3,4,1951,1,0.45,Buono,676400
+Centro Storico,102,5,0,1930,0,0.52,Nuovo,826300
+San Giovanni,78,4,7,1918,1,2.42,Nuovo,370700
+Parioli,80,3,3,2022,1,3.42,Buono,468900
+Trastevere,72,3,5,1973,1,0.19,Nuovo,549900
+Prati,164,7,3,1928,1,0.83,Ristrutturato,1180200
+Parioli,102,4,3,1999,1,1.57,Buono,659300
+Trastevere,71,4,3,2002,1,0.5,Da ristrutturare,421700
+Tiburtina,99,4,2,2018,1,0.91,Da ristrutturare,303700
+Trastevere,55,1,4,1919,1,0.31,Da ristrutturare,279000
+San Giovanni,130,4,5,1978,1,1.75,Da ristrutturare,454100
+San Giovanni,65,1,0,2020,0,1.7,Nuovo,350800
+Parioli,100,4,1,1999,0,0.68,Buono,625100
+Parioli,117,4,6,1927,1,0.52,Ristrutturato,951300
+Trastevere,97,3,4,2009,1,0.37,Buono,650200
+Centro Storico,88,2,7,1951,1,0.1,Buono,700900
+Tiburtina,85,4,4,1960,1,0.97,Buono,271300
+Tiburtina,83,3,5,1968,1,2.5,Buono,250200
+EUR,68,3,7,1994,1,0.16,Buono,320300
+EUR,72,3,5,1914,1,0.63,Buono,301400
+EUR,129,5,2,1966,1,2.56,Da ristrutturare,465200
+Tiburtina,82,3,4,2000,1,2.02,Ristrutturato,322100
+Ostia,61,1,1,1967,1,1.56,Da ristrutturare,149500
+Prati,70,1,2,1933,1,0.1,Buono,411800
+Trastevere,118,4,5,1906,1,1.35,Buono,632500
+Centro Storico,105,5,1,1967,0,0.43,Buono,640600
+Trastevere,102,3,5,1986,1,1.72,Ristrutturato,802500
+Parioli,77,3,4,1967,1,0.3,Da ristrutturare,396600
+EUR,102,5,2,2020,1,0.1,Nuovo,636700
+Trastevere,66,3,0,1974,1,0.84,Ristrutturato,450200
+EUR,77,3,5,1962,1,0.41,Buono,351600
+EUR,114,3,6,1906,1,1.06,Buono,453800
+Ostia,111,3,5,1968,1,0.39,Da ristrutturare,268500
+Monteverde,56,2,3,1920,1,1.8,Nuovo,258300
+Centro Storico,59,3,5,1989,1,0.83,Buono,516100
+EUR,88,2,3,1919,1,0.35,Da ristrutturare,308000
+Monteverde,137,6,2,2011,0,1.52,Buono,639600
+San Giovanni,30,2,2,1937,1,2.86,Da ristrutturare,106500
+Parioli,93,2,1,1953,0,2.73,Buono,472900
+San Giovanni,44,2,7,1917,0,4.57,Buono,154400
+Prati,66,1,5,1925,1,1.41,Da ristrutturare,335600
+Centro Storico,74,4,1,2013,1,1.14,Ristrutturato,559900
+Tiburtina,72,3,6,1934,1,0.1,Buono,221900
+San Giovanni,69,1,1,1963,0,0.3,Buono,286800
+Ostia,85,2,4,2020,1,0.44,Buono,257400
+EUR,69,2,1,1976,1,0.92,Nuovo,362500
+Monteverde,41,1,2,1905,0,2.07,Buono,145900
+Trastevere,108,3,5,1943,1,0.73,Nuovo,942600
+Ostia,108,3,7,1947,1,0.34,Buono,276200
+Prati,110,4,7,1933,1,0.6,Ristrutturato,808800
+Centro Storico,39,2,7,1929,1,0.1,Buono,278000
+Ostia,94,3,1,1961,1,0.37,Ristrutturato,288700
+Monteverde,105,3,0,1946,0,0.1,Da ristrutturare,351800
+Tuscolana,54,2,7,1936,1,0.88,Nuovo,241300
+EUR,85,4,7,1950,1,3.15,Nuovo,459200
+Centro Storico,82,2,2,1942,1,0.65,Buono,579900
+Tuscolana,140,4,0,1928,0,1.68,Buono,438400
+Tiburtina,143,4,5,1955,1,1.4,Buono,485500
+Parioli,35,2,0,2015,0,1.16,Buono,219500
+Ostia,160,5,0,1962,0,2.16,Ristrutturato,438300
+Tuscolana,58,2,7,1973,1,1.01,Ristrutturato,242300
+Parioli,114,5,3,2021,1,1.17,Buono,761800
+Ostia,114,4,0,1975,0,0.5,Da ristrutturare,249000
+Ostia,55,2,5,1927,1,1.63,Nuovo,164300
+San Giovanni,100,3,2,1949,1,0.26,Da ristrutturare,296400
+Tiburtina,82,2,4,1960,1,1.5,Buono,253000
+Parioli,102,3,7,1958,1,4.62,Da ristrutturare,495700
+Tuscolana,92,4,1,1918,1,0.36,Da ristrutturare,223600
+Tuscolana,121,3,5,1913,1,1.63,Da ristrutturare,348800
+Tuscolana,87,2,6,1943,1,1.69,Buono,292000
+Ostia,80,4,3,2012,1,0.1,Buono,279800
+Centro Storico,118,4,7,1988,1,1.34,Buono,935200
+EUR,102,4,3,2003,0,0.86,Ristrutturato,450900
+Trastevere,107,5,3,1921,0,0.76,Ristrutturato,661400
+Tuscolana,65,2,7,1950,0,2.5,Da ristrutturare,181200
+San Giovanni,54,3,5,1971,1,0.46,Da ristrutturare,193500
+San Giovanni,68,2,6,1953,0,4.62,Buono,214400
+Prati,66,3,6,1951,1,0.85,Ristrutturato,476200
+Ostia,109,5,5,1944,1,0.1,Buono,295600
+EUR,114,4,1,1906,0,0.11,Buono,461900
+Centro Storico,80,2,3,2005,1,2.07,Ristrutturato,639100
+Tuscolana,128,6,6,2014,1,1.74,Da ristrutturare,448300
+Prati,126,3,4,1909,1,1.44,Buono,600100
+Centro Storico,92,2,2,1950,1,0.11,Da ristrutturare,567300
+Centro Storico,60,2,2,1963,1,1.21,Ristrutturato,530600
+Trastevere,132,6,6,1996,1,6.63,Buono,658100
+Prati,83,2,1,2021,0,1.72,Ristrutturato,553800
+Monteverde,89,4,0,1951,0,0.34,Da ristrutturare,295400
+San Giovanni,75,4,6,1992,1,1.8,Buono,312700
+EUR,58,3,2,2015,1,0.1,Da ristrutturare,233000
+Centro Storico,41,1,6,2002,1,0.44,Ristrutturato,328600
+Trastevere,104,3,4,1935,1,2.86,Da ristrutturare,478100
+Prati,61,2,7,2000,1,1.86,Da ristrutturare,364300
+Tuscolana,177,5,4,1950,1,1.8,Ristrutturato,639000
+Parioli,52,3,6,1902,1,1.27,Da ristrutturare,228700
+Trastevere,47,2,6,1993,1,2.43,Buono,314600
+Centro Storico,100,4,1,2002,0,0.41,Ristrutturato,851400
+Prati,131,5,7,1942,1,3.31,Ristrutturato,790300
+Parioli,87,4,5,1955,1,1.86,Ristrutturato,522200
+Centro Storico,102,4,0,1944,0,0.11,Buono,619400
+Ostia,30,2,0,1914,0,2.01,Buono,74300
+Tuscolana,65,3,2,2022,1,1.0,Ristrutturato,265300
+Tuscolana,53,3,0,1902,0,0.98,Da ristrutturare,134800
+Parioli,30,1,2,1968,1,2.04,Ristrutturato,192900
+Ostia,89,4,7,1901,1,0.53,Da ristrutturare,193100
+San Giovanni,30,1,3,1984,1,0.1,Nuovo,179600
+Centro Storico,45,1,0,2010,0,3.89,Buono,273500
+Centro Storico,69,2,3,1979,1,3.89,Buono,470900
+San Giovanni,60,3,1,1974,0,1.79,Buono,202800
+Trastevere,97,2,6,2001,1,1.85,Da ristrutturare,501100
+Centro Storico,94,3,0,2019,0,1.94,Buono,688900
+Tuscolana,112,3,6,2006,1,5.91,Ristrutturato,371700
+Ostia,108,4,3,1928,1,0.11,Buono,323800
+San Giovanni,119,3,0,1969,1,0.1,Buono,409700
+Tuscolana,85,4,5,2000,1,0.38,Da ristrutturare,258200
+Tuscolana,94,4,3,1936,1,1.08,Ristrutturato,337200
+Tuscolana,100,5,6,1983,1,1.73,Buono,402200
+Parioli,89,4,4,1902,1,0.88,Da ristrutturare,383000
+Monteverde,73,2,6,2007,1,1.34,Nuovo,456200
+San Giovanni,75,3,3,1975,0,0.72,Buono,331400
+Ostia,60,1,0,1991,0,0.77,Buono,158000
+Monteverde,98,4,1,2001,1,0.55,Nuovo,550600
+Prati,82,3,3,1926,1,1.12,Buono,490100
+Trastevere,65,3,3,1955,1,0.16,Nuovo,435400
+Prati,65,1,6,2005,1,0.1,Ristrutturato,495100
+Parioli,49,3,3,1920,1,0.83,Buono,308600
+Trastevere,114,4,6,2001,1,0.52,Buono,788200
+Monteverde,87,4,1,1935,0,0.53,Da ristrutturare,288200
+Monteverde,59,2,3,1970,0,2.78,Buono,236200
+EUR,109,4,6,1962,1,6.63,Da ristrutturare,353900
+EUR,68,3,0,1984,1,1.15,Da ristrutturare,263600
+San Giovanni,43,3,2,2002,1,0.21,Buono,185400
+Tuscolana,116,3,6,1942,1,1.84,Ristrutturato,480700
+Tuscolana,69,2,4,1921,1,0.98,Da ristrutturare,207900
+Parioli,73,2,6,1952,1,1.71,Ristrutturato,520100
+Prati,86,3,4,1975,1,1.21,Nuovo,645800
+Ostia,119,5,6,1992,1,0.14,Ristrutturato,392400
+EUR,86,4,7,1992,1,1.27,Ristrutturato,434800
+Prati,49,1,7,1941,0,1.24,Ristrutturato,326200
+Centro Storico,101,4,0,2015,0,4.35,Buono,542800
+Trastevere,70,2,4,1910,1,2.87,Buono,380500
+EUR,142,5,0,1914,0,5.22,Nuovo,618400
+San Giovanni,85,2,1,1903,1,3.42,Ristrutturato,343400
+Parioli,30,1,2,2013,0,0.15,Ristrutturato,196900
+Ostia,96,3,5,1922,0,0.1,Nuovo,301200
+Tiburtina,143,5,3,1973,0,2.51,Buono,414800
+Trastevere,132,6,6,1999,1,1.83,Buono,829500
+Prati,140,5,2,1994,1,0.12,Buono,975000
+San Giovanni,54,2,4,2016,1,0.17,Da ristrutturare,221600
+Tiburtina,112,4,6,1906,1,1.52,Buono,347800
+EUR,63,3,7,1950,1,0.71,Ristrutturato,283300
+Parioli,92,3,1,1962,0,1.63,Buono,517400
+San Giovanni,47,2,5,1985,1,0.51,Buono,205300
+EUR,66,1,0,1976,1,0.35,Ristrutturato,318900
+Trastevere,65,3,4,1968,1,3.93,Da ristrutturare,328100
+EUR,112,5,3,1937,0,0.48,Ristrutturato,534400
+EUR,109,3,7,1913,1,2.88,Da ristrutturare,399100
+Ostia,93,3,6,1953,1,0.46,Ristrutturato,321700
+Trastevere,44,1,7,1931,1,0.1,Buono,265300
+Trastevere,76,4,6,1968,1,0.1,Buono,476500
+Tiburtina,63,1,3,1998,1,0.85,Buono,178400
+EUR,111,3,5,1967,1,1.44,Buono,534900
+Prati,120,3,0,1971,0,0.13,Buono,701700
+Monteverde,117,4,4,1905,0,0.57,Ristrutturato,525900
+Centro Storico,62,1,0,1979,1,0.67,Ristrutturato,530300
+San Giovanni,30,1,5,1954,1,0.66,Da ristrutturare,97900
+Parioli,32,2,7,1915,1,1.88,Ristrutturato,189100
+Parioli,128,6,5,1926,1,0.59,Ristrutturato,955200
+Centro Storico,73,2,6,1996,1,1.06,Ristrutturato,651300
+Tuscolana,62,1,1,2012,1,0.97,Buono,208900
+Trastevere,134,4,7,1962,0,0.58,Da ristrutturare,670700
+EUR,123,5,4,2020,1,0.16,Nuovo,788400
+Ostia,86,3,5,1922,1,0.42,Buono,260100
+Centro Storico,76,3,6,1936,1,0.1,Buono,489100
+San Giovanni,81,4,5,2014,1,0.7,Ristrutturato,469500
+Trastevere,92,3,2,1921,1,1.37,Buono,543500
+San Giovanni,133,4,4,1981,1,1.15,Ristrutturato,639000
+Prati,98,4,5,1926,1,2.52,Da ristrutturare,434200
+Tuscolana,107,5,6,1940,1,0.99,Ristrutturato,438300
+Parioli,120,3,3,1958,1,0.35,Nuovo,961500
+Tiburtina,50,2,4,1944,0,0.32,Nuovo,161500
+Ostia,108,4,4,2007,0,1.57,Nuovo,380800
+EUR,76,2,0,2019,0,0.14,Ristrutturato,455600
+Prati,30,1,0,1961,0,0.13,Buono,177500
+Parioli,30,1,0,1964,0,3.83,Nuovo,180200
+Monteverde,54,2,5,1906,1,0.81,Nuovo,254700
+Tuscolana,101,3,3,1928,1,0.76,Buono,373100
+Tuscolana,88,3,6,1904,1,1.22,Buono,296000
+Parioli,91,3,5,2005,1,2.79,Da ristrutturare,535400
+Tiburtina,144,5,1,1927,0,2.17,Buono,382800
+Prati,47,3,0,1941,0,0.8,Ristrutturato,324600
+Ostia,84,2,2,2003,1,1.59,Buono,233800
+Trastevere,94,3,7,1987,1,0.81,Buono,619900
+Ostia,63,1,0,1976,1,2.71,Buono,175500
+Tiburtina,86,4,1,1904,0,1.34,Da ristrutturare,208800
+Tuscolana,37,1,0,1969,0,1.11,Nuovo,148600
+Trastevere,127,6,3,1968,1,1.16,Buono,726200
+EUR,65,1,7,1939,1,0.16,Da ristrutturare,244900
+San Giovanni,146,4,5,1991,0,2.79,Da ristrutturare,428400
+Prati,84,3,3,2014,1,3.64,Ristrutturato,469400
+Prati,116,5,1,1931,0,0.24,Ristrutturato,784700
+San Giovanni,83,2,2,1940,1,0.1,Da ristrutturare,281900
+Monteverde,84,2,4,1939,1,0.65,Da ristrutturare,302100
+San Giovanni,67,3,2,2002,1,0.58,Buono,318800
+Ostia,89,2,5,1909,0,1.11,Da ristrutturare,213800
+Prati,95,2,7,2010,1,0.25,Ristrutturato,786800
+Trastevere,61,3,1,1995,0,0.48,Da ristrutturare,354800
+Tiburtina,81,2,2,1959,1,0.84,Buono,258400
+EUR,67,3,1,1971,0,0.12,Buono,284000
+Centro Storico,154,7,5,2009,1,0.24,Buono,1248800
+Centro Storico,82,4,3,1994,1,1.68,Buono,544200
+Tuscolana,131,4,2,1934,1,0.14,Da ristrutturare,395300
+Tiburtina,79,2,1,1906,0,3.69,Buono,152000
+Parioli,93,3,0,1980,0,1.31,Da ristrutturare,428300
+Parioli,45,2,3,1917,1,2.39,Da ristrutturare,207400
+Centro Storico,72,4,5,1910,1,0.23,Nuovo,580400
+Tuscolana,91,3,1,2020,0,0.49,Buono,296800
+Prati,133,6,0,1958,0,2.01,Buono,846300
+Ostia,92,4,3,1980,1,0.72,Da ristrutturare,255700
+Parioli,127,6,5,1926,1,4.85,Ristrutturato,693400
+EUR,104,3,2,1912,0,1.59,Nuovo,453600
+Parioli,134,4,2,1907,1,5.38,Ristrutturato,641300
+Monteverde,83,2,1,1943,0,0.33,Buono,352800
+Centro Storico,157,6,5,1900,1,3.28,Ristrutturato,1058300
+EUR,70,1,6,1951,1,0.19,Buono,262500
+Parioli,62,3,6,1939,0,2.15,Ristrutturato,384700
+Parioli,49,1,4,1964,1,1.03,Ristrutturato,350200
+Prati,155,7,5,1972,1,0.1,Da ristrutturare,950300
+Tuscolana,110,5,3,1937,1,0.1,Buono,366500
+EUR,75,2,0,1955,1,1.5,Buono,295400
+Trastevere,122,3,2,1909,1,0.28,Da ristrutturare,667500
+EUR,106,4,5,1937,0,0.24,Ristrutturato,482100
+Tuscolana,144,5,5,2020,1,3.44,Da ristrutturare,439300
+EUR,39,1,7,2021,1,0.18,Ristrutturato,202700
+EUR,77,3,7,1959,1,0.66,Nuovo,455700
+EUR,71,2,1,2015,1,0.42,Buono,285200
+EUR,30,1,0,1961,0,1.97,Buono,110100
+Centro Storico,117,5,2,1915,1,2.47,Buono,664700
+Tiburtina,77,4,7,2006,1,0.69,Ristrutturato,282600
+Centro Storico,107,3,6,1951,1,1.63,Buono,839100
+Parioli,156,7,0,1975,0,0.25,Buono,864500
+Parioli,74,3,1,1979,0,2.86,Buono,426900
+Parioli,72,3,4,1937,1,0.1,Nuovo,612700
+Ostia,89,2,5,1990,1,2.18,Buono,263900
+San Giovanni,115,4,7,1961,1,0.93,Buono,541200
+Tuscolana,68,2,6,1945,1,1.01,Nuovo,301200
+EUR,66,2,1,1936,0,1.9,Da ristrutturare,209600
+Tuscolana,117,3,0,1991,0,0.34,Da ristrutturare,350000
+Centro Storico,96,2,5,1930,0,1.21,Buono,718100
+San Giovanni,30,1,4,1915,0,0.88,Da ristrutturare,89800
+Ostia,48,1,7,2008,1,1.13,Da ristrutturare,119700
+San Giovanni,130,4,4,1940,0,0.61,Buono,466000
+Tuscolana,97,3,4,1978,1,0.13,Ristrutturato,423400
+EUR,62,3,2,1988,1,2.65,Buono,284100
+Centro Storico,80,3,0,2003,1,1.03,Buono,566300
+Ostia,85,2,7,1976,1,0.55,Buono,219800
+Centro Storico,107,5,6,1987,1,1.51,Buono,766600
+Ostia,44,2,1,2002,1,0.27,Ristrutturato,158400
+Ostia,60,3,5,2016,1,3.51,Ristrutturato,193000
+Monteverde,93,2,2,1905,0,0.13,Ristrutturato,405100
+Trastevere,82,3,3,1991,1,0.99,Ristrutturato,551800
+Monteverde,102,3,6,1921,1,3.64,Ristrutturato,479500
+Prati,48,2,6,2009,1,3.67,Da ristrutturare,264100
+Trastevere,96,2,1,1905,0,0.35,Nuovo,646000
+Prati,118,5,2,1930,0,0.1,Ristrutturato,767500
+Ostia,100,3,6,1923,1,0.65,Buono,294400
+Ostia,89,3,7,1974,1,0.25,Da ristrutturare,246000
+Monteverde,82,2,0,1900,1,0.73,Buono,294400
+Ostia,60,3,6,1902,1,0.28,Buono,170300
+EUR,83,3,3,1962,1,0.1,Ristrutturato,436300
+Centro Storico,123,5,4,2019,1,0.35,Buono,1055300
+Tuscolana,81,3,0,1964,0,3.81,Da ristrutturare,202700
+Trastevere,58,2,5,1954,1,0.16,Buono,331200
+Centro Storico,70,1,5,1980,1,0.4,Ristrutturato,563000
+Tuscolana,91,3,5,1967,1,0.65,Da ristrutturare,263300
+Tuscolana,74,3,6,1947,1,1.55,Ristrutturato,282100
+Trastevere,100,3,7,1972,1,2.22,Buono,602600
+Ostia,101,4,6,1900,1,1.02,Buono,246800
+Centro Storico,112,3,5,1930,1,3.61,Buono,651600
+Centro Storico,128,4,7,1982,1,0.28,Buono,839200
+Parioli,115,3,5,1942,1,2.44,Ristrutturato,555300
+Tiburtina,57,2,5,1906,1,0.74,Ristrutturato,183100
+Prati,58,1,4,1915,0,1.61,Da ristrutturare,318000
+Centro Storico,83,2,6,2006,1,0.15,Buono,764500
+Tiburtina,71,3,0,1940,1,0.97,Ristrutturato,212800
+Ostia,51,1,4,1902,1,1.28,Ristrutturato,151600
+Ostia,72,2,3,1989,1,1.82,Buono,187100
+Ostia,71,3,7,1965,1,6.45,Ristrutturato,178900
+Monteverde,65,1,0,1955,0,3.18,Da ristrutturare,185400
+Tiburtina,76,4,5,2010,1,0.76,Da ristrutturare,213900
+San Giovanni,120,4,1,1938,0,0.49,Ristrutturato,502100
+Monteverde,91,4,7,1970,1,0.59,Ristrutturato,486800
+EUR,159,7,6,1991,1,4.34,Ristrutturato,777400
+Centro Storico,90,4,1,1974,0,0.28,Da ristrutturare,515800
+Ostia,76,3,6,1925,1,4.91,Buono,188000
+Parioli,85,3,3,1983,1,1.62,Ristrutturato,536400
+Tuscolana,93,4,7,1991,1,0.54,Buono,310600
+Trastevere,98,3,5,1915,1,2.6,Buono,463300
+Monteverde,147,6,0,1920,0,0.46,Buono,590500
+Centro Storico,60,1,1,1983,0,1.56,Buono,394300
+Tiburtina,111,3,3,1914,1,0.68,Buono,272600
+Trastevere,91,2,1,2008,0,0.89,Buono,534000
+Trastevere,38,1,1,1913,0,1.7,Nuovo,213800
+Parioli,108,3,7,2019,1,1.28,Buono,814000
+Tuscolana,123,5,6,1982,1,0.1,Da ristrutturare,369500
+EUR,59,1,3,1954,0,0.59,Da ristrutturare,214200
+Monteverde,85,4,1,1933,0,0.81,Da ristrutturare,306300
+Trastevere,33,1,1,1942,0,0.25,Da ristrutturare,142300
+Centro Storico,47,3,7,1992,1,1.28,Buono,366900
+Monteverde,116,4,2,1992,1,0.68,Da ristrutturare,474100
+Prati,71,2,0,1925,1,1.56,Buono,404800
+Parioli,52,1,3,1966,1,0.1,Da ristrutturare,286600
+Monteverde,92,3,3,2022,1,3.52,Buono,353200
+Monteverde,69,3,4,1931,1,0.38,Da ristrutturare,263300
+Tuscolana,71,2,2,1985,1,0.63,Buono,240600
+Trastevere,107,4,7,1921,1,0.67,Ristrutturato,724100
+Ostia,50,3,5,2002,1,0.37,Ristrutturato,191900
+EUR,58,3,7,1920,1,0.67,Buono,257000
+Ostia,90,3,2,1936,1,0.72,Ristrutturato,287300
+San Giovanni,114,3,5,1956,1,0.1,Ristrutturato,584300
+Centro Storico,122,3,2,1945,1,0.53,Da ristrutturare,769000
+Trastevere,65,2,5,1920,1,0.1,Buono,426400
+Trastevere,113,4,5,1978,1,1.45,Ristrutturato,779600
+Parioli,61,1,2,1902,1,1.29,Buono,334200
+EUR,140,4,7,2020,1,1.09,Buono,709700
+San Giovanni,51,2,6,1906,1,0.84,Buono,193600
+Centro Storico,125,5,7,1941,1,0.95,Da ristrutturare,686300
+Prati,65,1,1,2014,0,2.71,Nuovo,493700
+Ostia,145,5,5,1919,0,0.28,Da ristrutturare,321500
+EUR,103,3,0,1908,1,1.06,Da ristrutturare,300900
+Tiburtina,55,1,0,1991,1,4.91,Da ristrutturare,134400
+San Giovanni,69,2,7,1909,1,0.72,Buono,309500
+San Giovanni,108,3,1,2010,0,0.3,Ristrutturato,442200
+Trastevere,117,3,6,1955,1,0.53,Ristrutturato,877000
+Trastevere,83,4,3,2006,1,0.6,Nuovo,532000
+Monteverde,86,2,2,1930,1,0.65,Buono,347500
+Tuscolana,108,3,0,1917,1,0.18,Buono,388800
+Parioli,89,4,5,2018,1,0.87,Buono,573000
+Tiburtina,46,2,5,1993,1,1.32,Da ristrutturare,129100
+Tuscolana,61,1,3,2012,1,0.14,Nuovo,299100
+Centro Storico,92,3,6,1939,1,0.24,Buono,579100
+Ostia,121,4,2,1949,1,0.54,Buono,346700
+Trastevere,133,4,4,1970,1,1.26,Buono,812500
+Tuscolana,108,4,2,1955,1,0.28,Ristrutturato,472400
+San Giovanni,94,3,4,1929,1,0.53,Buono,344900
+Monteverde,107,3,1,1946,0,1.95,Ristrutturato,446700
+Prati,65,3,3,1974,1,3.34,Ristrutturato,400800
+Prati,80,3,4,1904,1,0.43,Ristrutturato,482300
+Tuscolana,60,3,4,1941,1,0.27,Da ristrutturare,188400
+San Giovanni,48,1,3,1936,1,0.49,Da ristrutturare,167000
+San Giovanni,95,2,5,1908,1,1.23,Buono,352300
+Prati,91,4,4,1915,1,0.1,Ristrutturato,590200
+Parioli,106,5,2,1960,1,0.1,Nuovo,782100
+Monteverde,101,3,1,1912,0,4.79,Buono,321000
+EUR,92,4,5,1942,1,0.1,Buono,360200
+San Giovanni,102,3,7,1968,1,1.11,Da ristrutturare,372200
+EUR,84,3,6,2007,1,2.28,Buono,367200
+Parioli,97,2,5,1912,1,0.59,Buono,527500
+Prati,63,2,7,1953,1,0.1,Buono,422300
+Tuscolana,96,4,7,1912,1,1.39,Ristrutturato,351500
+Tuscolana,105,5,4,1952,1,0.15,Buono,347400
+Prati,65,3,0,1959,0,0.2,Buono,377600
+EUR,87,2,5,1998,1,0.87,Da ristrutturare,403000
+San Giovanni,66,3,4,1954,1,0.89,Buono,323900
+EUR,69,2,2,2015,1,3.79,Ristrutturato,291600
+Ostia,51,2,6,1916,1,0.1,Buono,134200
+Parioli,123,5,6,1906,1,0.61,Da ristrutturare,553100
+Centro Storico,117,4,2,1900,1,3.33,Da ristrutturare,642400
+EUR,101,4,3,1943,1,0.13,Da ristrutturare,355400
+San Giovanni,144,5,1,1923,0,1.99,Ristrutturato,579900
+Prati,79,3,1,1911,0,0.17,Buono,502600
+Monteverde,176,7,2,1929,1,0.74,Buono,730900
+Centro Storico,78,3,2,2019,1,1.29,Buono,616700
+Centro Storico,93,3,2,1998,1,0.32,Da ristrutturare,632900
+San Giovanni,73,2,1,1902,0,0.28,Buono,249600
+San Giovanni,96,3,3,2012,1,0.88,Da ristrutturare,395200
+Parioli,110,5,4,1925,0,0.41,Nuovo,712700
+Parioli,82,3,2,1949,1,2.06,Da ristrutturare,441000
+Centro Storico,138,4,4,1940,0,1.34,Buono,860100
+Tiburtina,92,3,2,1949,1,0.1,Da ristrutturare,232100
+EUR,93,4,5,1993,1,0.34,Ristrutturato,445700
+Prati,58,1,5,1987,1,0.52,Da ristrutturare,309000
+EUR,98,3,7,1973,1,0.27,Nuovo,549200
+Tuscolana,81,3,0,1977,0,2.15,Da ristrutturare,170300
+Parioli,67,2,6,1989,1,3.51,Ristrutturato,444100
+Monteverde,62,1,2,1922,1,0.15,Ristrutturato,278600
+Parioli,165,7,0,1948,0,0.48,Buono,972400
+Prati,77,4,5,1913,1,0.12,Buono,483600
+Parioli,41,1,1,1986,0,0.22,Buono,231800
+EUR,64,2,1,1953,1,2.4,Ristrutturato,274200
+Prati,83,2,7,1978,1,0.35,Ristrutturato,623600
+San Giovanni,101,5,1,1969,0,1.38,Da ristrutturare,372400
+EUR,102,5,4,1933,0,0.58,Buono,376600
+Ostia,105,4,1,1917,0,2.74,Buono,232900
+Trastevere,66,2,0,2019,0,0.15,Da ristrutturare,304800
+Trastevere,95,4,0,1936,0,0.41,Buono,448600
+Trastevere,59,3,0,1913,1,0.76,Buono,326700
+Prati,66,1,3,1937,1,0.42,Buono,412500
+Ostia,57,3,3,2010,1,1.15,Ristrutturato,215200
+Prati,49,3,0,1932,0,0.32,Ristrutturato,333100
+Ostia,117,5,2,2021,0,1.73,Ristrutturato,438000
+Tuscolana,106,4,2,1956,0,0.33,Da ristrutturare,287200
+Ostia,114,4,4,2006,1,3.69,Nuovo,396700
+Trastevere,86,2,7,1980,1,1.62,Buono,483900
+EUR,108,4,5,1905,1,1.28,Buono,450000
+Monteverde,32,1,7,1962,1,0.42,Da ristrutturare,127600
+Parioli,111,4,1,1951,0,0.1,Ristrutturato,744400
+Trastevere,90,2,1,1924,0,0.61,Buono,431200
+Ostia,104,4,6,1967,1,0.36,Ristrutturato,366900
+Tuscolana,96,3,2,1912,1,0.1,Ristrutturato,347700
+Tuscolana,55,1,6,1985,1,1.17,Ristrutturato,224400
+Centro Storico,40,2,3,2001,1,1.94,Ristrutturato,313500
+Monteverde,64,2,1,1911,1,0.47,Nuovo,352600
+Prati,102,5,6,1958,1,0.1,Buono,785100
+San Giovanni,106,3,4,1980,1,0.1,Buono,432500
+Tuscolana,44,3,6,1907,1,4.93,Ristrutturato,146000
+Tiburtina,56,1,3,1947,1,3.04,Buono,122100
+Tuscolana,63,2,1,1931,0,0.2,Buono,203100
+EUR,74,3,5,1904,1,1.47,Ristrutturato,276000
+EUR,44,2,0,1998,0,0.36,Buono,178800
+EUR,42,2,5,1954,1,0.1,Ristrutturato,187000
+EUR,60,3,3,1992,1,0.83,Buono,266700
+Tiburtina,88,2,6,1972,1,0.4,Ristrutturato,346700
+Trastevere,50,3,6,2007,1,0.28,Da ristrutturare,241900
+Ostia,82,2,3,2022,1,0.52,Buono,248200
+Trastevere,117,3,7,1974,1,0.25,Ristrutturato,815600
+EUR,46,1,0,1943,0,0.26,Buono,202200
+Prati,79,4,0,1952,0,0.28,Buono,473800
+San Giovanni,116,3,7,2001,1,0.13,Buono,498600
+Monteverde,72,3,4,1952,1,0.1,Buono,310900
+Monteverde,68,2,3,1963,1,0.64,Buono,340300
+Parioli,120,5,1,1923,0,1.26,Da ristrutturare,565400
+Trastevere,76,3,2,2021,1,0.1,Ristrutturato,510100
+Ostia,118,5,5,1980,1,1.29,Buono,347600
+Tiburtina,98,5,6,1940,1,0.74,Buono,298000
+Centro Storico,75,4,7,1971,1,0.1,Buono,558900
+San Giovanni,99,5,3,1949,1,0.14,Da ristrutturare,306300
+Centro Storico,95,2,3,1919,0,0.2,Da ristrutturare,494600
+Prati,116,4,1,2007,0,0.25,Nuovo,1017500
+Tiburtina,69,2,0,2008,1,0.91,Ristrutturato,239500
+Prati,86,2,3,2002,1,0.24,Da ristrutturare,495100
+EUR,83,2,4,1945,1,0.5,Ristrutturato,402700
+San Giovanni,106,3,0,1931,0,3.07,Buono,426700
+Tiburtina,54,3,3,1906,1,5.37,Da ristrutturare,112000
+Trastevere,116,4,5,1989,1,0.87,Ristrutturato,903700
+Centro Storico,99,3,6,1940,1,0.27,Buono,688300
+Ostia,45,3,7,2009,1,0.29,Buono,143700
+Tuscolana,121,5,2,2006,1,0.59,Ristrutturato,489900
+Monteverde,152,6,3,1915,1,0.57,Buono,587400
+Ostia,115,5,6,2012,1,0.32,Buono,365100
+Trastevere,128,6,5,1917,1,2.64,Buono,738000
+Monteverde,88,2,2,1960,1,0.71,Ristrutturato,403700
+Trastevere,35,2,5,1958,1,0.73,Ristrutturato,239900
+Prati,30,1,1,2017,0,4.52,Nuovo,218000
+Monteverde,93,3,3,1980,1,1.16,Buono,390700
+EUR,67,2,2,2007,1,2.16,Ristrutturato,354900
+Tuscolana,58,2,7,1973,1,0.71,Buono,211300
+EUR,83,3,0,2001,0,2.68,Buono,323900
+Monteverde,103,5,6,2004,1,0.32,Da ristrutturare,359800
+San Giovanni,41,1,2,2005,1,0.1,Ristrutturato,201700
+Trastevere,72,2,0,1950,0,2.0,Buono,386800
+Parioli,130,4,5,1946,1,0.35,Buono,914700
+Monteverde,53,3,5,2021,1,1.1,Buono,262400
+Centro Storico,111,4,1,1993,0,0.84,Da ristrutturare,721400
+Trastevere,70,2,0,2012,0,0.17,Nuovo,471800
+EUR,101,4,0,1971,1,0.32,Ristrutturato,483500
+San Giovanni,118,4,3,2014,1,3.98,Buono,523000
+Parioli,107,4,1,1988,0,3.71,Ristrutturato,598600
+Tiburtina,112,3,5,1991,0,0.83,Buono,377800
+EUR,50,1,0,1921,1,0.41,Ristrutturato,235300
+Prati,118,5,6,1969,1,1.29,Da ristrutturare,665100
+Prati,59,2,6,1989,1,2.25,Buono,373000
+Tiburtina,93,2,5,1993,0,3.55,Buono,246500
+Parioli,93,3,7,2017,1,0.29,Buono,728400
+EUR,100,4,7,1940,1,0.34,Buono,461500
+Tiburtina,95,2,0,1937,1,0.1,Da ristrutturare,246100
+EUR,60,1,2,2019,1,0.1,Nuovo,336200
+EUR,45,3,6,2021,1,0.41,Da ristrutturare,183100
+Parioli,111,3,2,1922,1,0.1,Da ristrutturare,555000
+EUR,91,2,5,1946,1,1.38,Buono,395900
+Tiburtina,119,4,6,2016,1,0.51,Buono,432100
+San Giovanni,84,3,7,1924,1,0.29,Da ristrutturare,280000
+Tuscolana,43,3,2,1996,1,1.02,Buono,134400
+Ostia,114,5,2,1913,1,1.02,Ristrutturato,339700
+Centro Storico,74,2,0,1921,1,0.37,Da ristrutturare,360000
+EUR,95,3,2,1996,1,1.21,Nuovo,515200
+Parioli,66,1,2,1974,0,3.45,Buono,339400
+San Giovanni,134,5,3,1968,0,2.56,Buono,529500
+Parioli,59,1,3,2005,0,0.1,Da ristrutturare,364000
+Tuscolana,75,2,6,1937,1,0.54,Ristrutturato,241400
+Parioli,88,4,6,1961,1,1.62,Ristrutturato,715200
+San Giovanni,52,1,5,1974,1,2.19,Da ristrutturare,182100
+Prati,95,3,0,1991,0,0.36,Da ristrutturare,510300
+Tuscolana,133,4,3,1940,1,2.1,Buono,373300
+Tuscolana,70,3,5,1977,1,0.98,Da ristrutturare,227800
+Ostia,97,4,1,1955,1,2.6,Nuovo,324700
+EUR,30,1,3,1966,1,1.0,Buono,129000
+Centro Storico,84,4,5,2006,0,2.65,Buono,494000
+Ostia,76,3,6,1948,1,0.2,Nuovo,285400
+Trastevere,60,1,6,1982,1,4.39,Ristrutturato,408600
+Tuscolana,117,3,3,2015,1,0.1,Ristrutturato,475800
+Tiburtina,75,2,3,1993,1,1.89,Buono,259200
+San Giovanni,80,2,3,2021,1,0.13,Buono,398500
+Tuscolana,74,2,5,1971,0,2.87,Buono,219100
+Monteverde,30,1,3,1934,1,0.13,Buono,145800
+Trastevere,51,2,3,2021,1,1.14,Buono,323800
+Centro Storico,114,3,1,1979,0,0.81,Da ristrutturare,668500
+Centro Storico,30,1,3,1929,1,0.31,Buono,210400
+Trastevere,62,2,1,1939,1,2.5,Buono,336500
+San Giovanni,73,4,4,1932,1,0.78,Buono,234000
+Centro Storico,137,5,7,2002,1,1.13,Da ristrutturare,905100
+Prati,108,5,6,1911,1,0.4,Buono,583100
+Ostia,68,2,3,1991,1,3.34,Buono,216000
+Ostia,124,3,7,1968,1,1.25,Ristrutturato,471700
+Centro Storico,63,2,7,1909,1,0.67,Ristrutturato,520800
+San Giovanni,115,4,3,1975,1,1.25,Buono,479200
+Centro Storico,44,2,6,1992,0,1.59,Da ristrutturare,246900
+Ostia,117,4,2,1989,1,0.28,Buono,338900
+Monteverde,73,3,7,1965,1,1.83,Da ristrutturare,320400
+Monteverde,54,1,2,1941,1,0.28,Buono,219300
+San Giovanni,78,2,2,1920,1,1.24,Nuovo,304400
+Tiburtina,93,4,1,1901,0,0.27,Da ristrutturare,226300
+Tuscolana,70,3,6,1944,1,0.25,Buono,272300
+Tiburtina,102,3,2,1977,1,0.9,Ristrutturato,407500
+Trastevere,68,3,6,1904,1,0.41,Buono,419800
+Ostia,104,5,0,2022,0,0.1,Da ristrutturare,280200
+San Giovanni,98,3,4,1972,1,1.96,Da ristrutturare,349200
+Monteverde,83,4,3,1936,0,5.65,Nuovo,294400
+San Giovanni,72,3,3,2018,1,1.51,Da ristrutturare,268500
+Monteverde,90,4,1,1922,0,3.25,Buono,334600
+Centro Storico,102,4,0,2017,0,1.66,Ristrutturato,773100
+Centro Storico,147,5,2,1934,0,5.84,Buono,790700
+Centro Storico,113,3,3,1946,1,0.69,Ristrutturato,826300
+San Giovanni,114,3,6,1952,1,0.93,Da ristrutturare,379500
+Ostia,178,6,3,2022,0,0.57,Buono,599400
+Parioli,100,5,1,1930,0,4.19,Buono,554400
+Prati,100,5,2,2019,1,0.84,Nuovo,829800
+Monteverde,106,5,4,1942,1,2.74,Buono,440500
+Ostia,55,2,3,1935,1,0.14,Da ristrutturare,122600
+Tiburtina,72,3,7,1978,1,0.38,Nuovo,318100
+Trastevere,70,2,3,1985,1,1.06,Da ristrutturare,420800
+Trastevere,104,5,4,1942,1,0.53,Ristrutturato,607500
+Centro Storico,80,2,0,1916,1,0.39,Ristrutturato,612600
+Prati,89,2,1,1948,0,0.59,Buono,535000
+Monteverde,118,5,6,1966,1,0.28,Ristrutturato,640800
+EUR,111,4,2,1904,0,2.27,Ristrutturato,492100
+Ostia,80,3,3,1909,1,0.45,Da ristrutturare,213300
+Ostia,65,3,4,2012,1,1.23,Nuovo,245500
+EUR,119,5,0,1904,0,0.2,Nuovo,573500
+Parioli,108,3,4,1950,1,2.11,Ristrutturato,709500
+Tiburtina,37,1,2,1993,1,0.4,Buono,115100
+Centro Storico,76,3,1,1940,0,0.6,Buono,504600
+Trastevere,90,4,3,1960,0,2.1,Buono,516200
+Monteverde,108,5,3,1910,1,0.33,Da ristrutturare,384200
+Ostia,112,4,1,1997,0,2.2,Buono,283500
+Ostia,94,4,4,1978,1,0.39,Buono,276500
+Centro Storico,103,4,5,2004,1,0.52,Ristrutturato,876800
+Prati,87,4,2,2006,1,2.71,Buono,507700
+Parioli,65,2,7,1943,1,0.16,Buono,419600
+Parioli,77,3,4,1905,0,0.56,Buono,425600
+Prati,86,3,6,1942,1,0.52,Buono,590000
+Tuscolana,84,4,0,1917,0,1.24,Nuovo,280300
+Prati,30,1,6,1965,1,0.96,Ristrutturato,208800
+Ostia,73,2,2,1918,1,0.97,Da ristrutturare,186300
+San Giovanni,87,2,5,2013,0,1.14,Da ristrutturare,310800
+Tiburtina,77,3,6,1974,1,1.45,Ristrutturato,276800
+Parioli,78,4,2,1931,1,4.29,Buono,396200
+EUR,100,4,2,2013,1,1.87,Ristrutturato,536000
+Tiburtina,53,2,0,1994,1,0.45,Da ristrutturare,158300
+Parioli,36,2,4,1953,1,0.27,Da ristrutturare,206600
+Tiburtina,75,3,6,1918,1,0.73,Buono,224600
+Centro Storico,108,5,3,1942,1,1.22,Ristrutturato,778000
+Centro Storico,136,5,1,1971,0,1.49,Nuovo,1303600
+Ostia,108,5,2,1994,1,0.81,Ristrutturato,391800
+Tiburtina,41,2,3,1932,1,0.87,Buono,116900
+Centro Storico,78,3,7,1991,1,0.6,Ristrutturato,769800
+Monteverde,93,2,0,1934,0,0.54,Da ristrutturare,295100
+Centro Storico,90,3,2,1930,1,1.25,Buono,671700
+Tuscolana,101,3,5,1954,1,0.62,Nuovo,488100
+Ostia,57,2,1,1919,0,0.85,Buono,132400
+Tuscolana,87,2,7,1949,1,2.36,Nuovo,376600
+Tuscolana,98,4,7,1944,1,3.81,Buono,325800
+EUR,110,4,3,1934,1,0.1,Da ristrutturare,476800
+Ostia,61,1,5,1995,1,0.98,Buono,178400
+Parioli,75,2,6,1940,0,0.4,Nuovo,607500
+Trastevere,30,1,5,1985,1,1.41,Buono,187800
+Parioli,66,1,1,1988,1,0.1,Ristrutturato,425700
+Trastevere,69,3,0,1981,0,1.0,Da ristrutturare,328400
+Monteverde,54,3,2,1933,0,0.25,Ristrutturato,242400
+Trastevere,90,4,1,2002,0,0.96,Buono,484800
+Centro Storico,83,2,2,1929,1,0.1,Da ristrutturare,501500
+EUR,30,2,5,1934,1,0.66,Ristrutturato,152900
+Ostia,91,3,4,2007,1,0.1,Ristrutturato,331000
+San Giovanni,57,2,1,1941,0,0.8,Buono,205800
+San Giovanni,100,3,0,1985,0,2.98,Buono,369400
+Trastevere,47,2,1,1905,0,0.3,Da ristrutturare,205700
+Parioli,86,4,3,1975,1,0.34,Nuovo,693900
+San Giovanni,77,2,6,2006,1,1.37,Ristrutturato,424900
+Tiburtina,94,2,2,1987,1,2.82,Ristrutturato,323600
+Monteverde,89,3,2,1971,1,1.38,Ristrutturato,386000
+Tiburtina,77,3,4,2004,1,1.82,Ristrutturato,266100
+Tuscolana,39,1,0,1936,0,0.1,Da ristrutturare,102900
+Monteverde,41,1,1,1946,0,0.56,Buono,179400
+Centro Storico,67,1,0,1908,0,0.38,Ristrutturato,508200
+EUR,85,2,4,1985,1,0.1,Da ristrutturare,381200
+EUR,67,1,3,1988,1,1.75,Da ristrutturare,251400
+Centro Storico,104,3,4,1992,1,1.63,Buono,823100
+Prati,77,4,4,1992,1,0.1,Ristrutturato,521300
+Ostia,56,3,3,1915,1,3.28,Ristrutturato,161600
+EUR,77,3,6,1981,1,0.43,Da ristrutturare,277200
+Prati,92,2,7,1993,1,1.35,Nuovo,776300
+Parioli,95,3,0,1925,0,1.0,Da ristrutturare,526800
+Parioli,141,6,7,1958,1,1.45,Buono,895500
+Prati,65,1,1,2012,0,0.11,Nuovo,479700
+Prati,83,3,1,1951,0,1.05,Ristrutturato,548100
+Ostia,98,4,4,1992,0,0.49,Nuovo,344800
+Monteverde,84,2,0,1965,0,0.1,Ristrutturato,361000
+Trastevere,70,2,2,1980,1,0.19,Ristrutturato,573100
+Tiburtina,39,1,1,1977,0,0.83,Buono,124800
+Tuscolana,70,2,3,1980,1,0.68,Buono,253700
+Monteverde,53,3,6,1995,1,0.75,Nuovo,307800
+Centro Storico,33,1,7,2011,1,0.42,Ristrutturato,290600
+Tuscolana,61,1,1,1936,1,1.18,Buono,217500
+Centro Storico,54,1,4,2014,1,0.1,Buono,437800
+Centro Storico,103,4,3,1977,1,0.35,Buono,582800
+Trastevere,103,5,3,1973,1,1.21,Buono,744700
+Ostia,58,1,5,1940,1,3.27,Ristrutturato,174600
+Centro Storico,77,2,7,1951,1,0.67,Da ristrutturare,498600
+Parioli,30,2,3,1980,0,0.63,Buono,195000
+Parioli,70,2,0,1944,0,0.24,Nuovo,503500
+EUR,97,2,7,1935,1,2.18,Buono,422900
+Tuscolana,110,3,7,2000,0,0.79,Buono,377500
+EUR,64,2,2,1951,1,1.15,Buono,240000
+Parioli,117,4,4,1979,1,0.27,Da ristrutturare,656900
+Prati,40,1,6,1903,1,0.78,Buono,263300
+Prati,48,1,4,1909,0,0.35,Da ristrutturare,216600
+Prati,106,4,3,2004,1,2.21,Da ristrutturare,544900
+San Giovanni,135,6,7,1917,1,0.67,Da ristrutturare,514800
+Trastevere,100,3,6,1997,0,1.24,Buono,587300
+Trastevere,84,3,4,2010,1,1.6,Da ristrutturare,434800
+Monteverde,30,1,1,1959,1,0.1,Nuovo,160400
+San Giovanni,30,1,3,2008,1,0.56,Da ristrutturare,114400
+Prati,89,2,5,1952,1,0.66,Buono,496200
+EUR,74,2,2,2017,1,1.22,Ristrutturato,355200
+EUR,52,3,4,1929,1,0.32,Da ristrutturare,188800
+Monteverde,87,2,5,1952,1,0.56,Buono,395700
+EUR,88,4,0,1947,1,0.84,Ristrutturato,440400
+Prati,113,4,4,1996,1,1.04,Buono,867000
+Ostia,89,3,5,1905,1,2.56,Buono,254900
+Trastevere,122,4,1,2001,0,0.63,Ristrutturato,871800
+Centro Storico,85,3,4,1902,1,0.15,Ristrutturato,634000
+Tiburtina,82,3,5,1938,1,2.12,Buono,228300
+Parioli,117,5,0,1973,1,0.35,Da ristrutturare,611400
+Monteverde,56,3,5,1917,1,2.28,Da ristrutturare,199000
+Monteverde,169,5,2,1960,1,0.35,Ristrutturato,892600
+EUR,96,4,3,2022,1,0.1,Buono,471700
+San Giovanni,96,2,5,2001,1,0.84,Da ristrutturare,368200
+San Giovanni,101,5,0,1903,0,3.36,Buono,346500
+Tiburtina,141,4,0,1972,0,0.6,Nuovo,565900
+Centro Storico,109,3,3,1973,1,0.25,Da ristrutturare,742400
+EUR,37,2,7,1908,1,0.22,Da ristrutturare,131000
+Prati,127,6,0,1979,1,2.09,Buono,718500
+Tiburtina,75,2,6,1964,1,1.26,Ristrutturato,248100
+Centro Storico,88,3,0,1983,0,0.65,Buono,572400
+San Giovanni,47,2,3,1936,1,0.1,Ristrutturato,222000
+Ostia,101,4,3,1931,1,1.03,Da ristrutturare,246000
+Tuscolana,65,2,3,1990,1,2.06,Buono,197700
+Parioli,88,4,0,1988,0,0.1,Buono,504400
+Centro Storico,76,4,6,1919,1,0.37,Buono,544500
+Ostia,143,5,2,1926,1,1.03,Buono,358500
+Centro Storico,144,6,6,1972,1,2.43,Ristrutturato,1199000
+Centro Storico,86,4,5,2001,0,5.51,Buono,529300
+Tuscolana,87,2,4,1924,1,2.21,Ristrutturato,284600
+Monteverde,74,4,2,1926,1,1.15,Da ristrutturare,257900
+Ostia,118,5,5,1999,1,0.47,Buono,386700
+Monteverde,75,2,7,1985,1,0.35,Buono,337400
+Centro Storico,72,4,7,2010,1,0.1,Buono,574800
+Centro Storico,114,5,7,1996,0,0.67,Da ristrutturare,754300
+EUR,69,2,1,2017,0,1.48,Nuovo,336100
+Centro Storico,84,3,4,1923,1,0.63,Nuovo,627300
+Monteverde,38,1,3,1933,1,1.78,Ristrutturato,152700
+Centro Storico,106,5,7,1929,1,2.95,Ristrutturato,763200
+San Giovanni,143,6,7,1906,1,0.44,Da ristrutturare,439000
+Monteverde,107,5,6,1995,1,0.86,Buono,497200
+Ostia,129,5,1,1981,1,0.64,Buono,432500
+Parioli,60,1,2,1910,1,0.47,Ristrutturato,336300
+Trastevere,92,4,5,1924,0,2.45,Da ristrutturare,395300
+San Giovanni,57,1,5,1923,1,0.58,Buono,271100
+Ostia,78,2,2,1949,0,0.39,Ristrutturato,243600
+Trastevere,108,3,1,1956,0,4.07,Da ristrutturare,442700
+Parioli,88,4,1,1935,0,1.92,Ristrutturato,510000
+Ostia,43,2,5,2014,0,0.1,Buono,135000
+Monteverde,46,1,3,1926,1,0.21,Ristrutturato,248300
+Trastevere,44,1,3,1969,1,0.1,Ristrutturato,293900
+Centro Storico,100,4,6,1953,1,0.1,Buono,704300
+San Giovanni,147,6,0,1947,0,8.0,Buono,384300
+Monteverde,126,5,6,2001,0,1.87,Da ristrutturare,475400
+Tuscolana,30,1,2,2020,1,0.97,Da ristrutturare,80800
+Trastevere,128,5,7,1900,0,2.16,Da ristrutturare,534600
+Prati,113,5,7,1957,1,0.64,Buono,687000
+San Giovanni,39,2,4,1914,1,6.09,Buono,139600
+Monteverde,76,2,2,1953,1,0.63,Buono,316300
+Tuscolana,118,5,1,1975,1,0.73,Buono,417200
+Centro Storico,102,4,1,1950,1,1.17,Nuovo,764600
+Parioli,46,3,7,1938,0,2.72,Da ristrutturare,214800
+Trastevere,103,3,1,1938,0,0.11,Buono,510000
+Centro Storico,30,1,3,1936,1,0.86,Buono,200600
+Monteverde,78,4,3,1940,1,1.47,Da ristrutturare,326100
+Prati,119,5,5,1946,1,0.1,Nuovo,1026900
+Tiburtina,86,2,6,1984,1,0.5,Da ristrutturare,242300
+Tuscolana,70,3,4,1911,1,1.16,Ristrutturato,308700
+Tiburtina,112,3,6,1905,1,1.92,Buono,292200
+Ostia,114,5,4,1963,1,3.14,Ristrutturato,381800
+Parioli,124,3,3,1983,1,0.54,Ristrutturato,778000
+Monteverde,111,3,1,1931,0,1.91,Ristrutturato,457800
+Trastevere,117,5,1,1924,0,5.53,Buono,467500
+Centro Storico,107,5,3,1976,1,2.02,Buono,777400
+EUR,93,2,0,1947,1,1.55,Ristrutturato,418600
+EUR,88,2,2,1990,1,0.11,Buono,391800
+San Giovanni,78,3,3,1918,1,1.68,Buono,323900
+Parioli,49,1,3,1914,1,0.1,Buono,270500
+Trastevere,56,3,6,1967,1,0.1,Buono,367100
+Trastevere,77,4,7,1948,1,1.7,Buono,488600
+EUR,92,4,5,1989,1,0.1,Da ristrutturare,323400
+Tiburtina,128,4,0,1962,1,0.38,Buono,368600
+EUR,84,2,3,1943,0,2.3,Da ristrutturare,270400
+Ostia,115,5,5,1919,0,0.1,Buono,322200
+Parioli,117,3,4,1920,1,0.17,Ristrutturato,859200
+Monteverde,78,3,3,1992,1,0.95,Buono,353400
+EUR,103,4,3,1927,1,4.87,Ristrutturato,401400
+Centro Storico,78,4,3,1961,1,1.36,Da ristrutturare,437800
+Prati,125,3,4,2000,1,3.54,Da ristrutturare,677000
+Monteverde,104,5,1,2010,0,3.43,Ristrutturato,453300
+Monteverde,49,3,4,1932,0,6.01,Ristrutturato,180800
+Parioli,90,2,1,1913,0,2.38,Ristrutturato,497700
+Tiburtina,134,5,5,1995,1,1.44,Ristrutturato,513400
+San Giovanni,80,2,6,1984,1,0.19,Ristrutturato,391800
+Prati,98,4,4,1940,1,1.49,Ristrutturato,621700
+Trastevere,101,3,3,1973,1,0.98,Ristrutturato,713900
+Tiburtina,54,1,7,1923,0,1.07,Ristrutturato,130200
+Tuscolana,100,4,5,1986,0,1.01,Da ristrutturare,274200
+Monteverde,43,2,3,1989,1,2.01,Da ristrutturare,147300
+Centro Storico,66,1,0,1936,1,2.51,Buono,461600
+Parioli,117,3,0,1957,0,0.1,Buono,642200
+Trastevere,96,2,1,1941,0,0.56,Ristrutturato,557700
+Prati,76,4,1,1903,1,1.15,Buono,421300
+San Giovanni,98,4,5,1915,1,1.98,Buono,358100
+Centro Storico,83,2,4,2018,1,1.13,Ristrutturato,689900
+Prati,85,2,7,1956,1,4.13,Buono,500900
+Centro Storico,105,5,4,1918,1,1.58,Ristrutturato,753500
+Parioli,63,1,7,1905,1,0.33,Da ristrutturare,303800
+Ostia,86,4,4,1943,1,1.89,Buono,218000
+Prati,76,3,2,2020,0,1.25,Buono,426700
+Tuscolana,37,1,5,1947,1,0.67,Buono,126900
+Parioli,57,1,3,2022,1,0.17,Da ristrutturare,328900
+Centro Storico,132,4,2,1960,1,0.11,Buono,852700
+EUR,97,4,3,1993,1,0.23,Buono,474700
+Ostia,45,2,5,1996,1,0.62,Buono,150400
+Prati,39,1,3,1903,1,1.39,Ristrutturato,265200
+Centro Storico,82,2,5,1900,1,2.27,Da ristrutturare,453000
+Monteverde,132,6,7,2013,0,0.21,Buono,649000
+San Giovanni,79,2,3,2014,1,0.1,Da ristrutturare,360700
+EUR,124,4,2,1916,1,0.38,Nuovo,607600
+Ostia,96,4,3,1979,0,1.77,Ristrutturato,269900
+Monteverde,99,5,6,2013,1,0.18,Nuovo,533800
+EUR,45,2,1,2016,0,1.67,Nuovo,264600
+San Giovanni,113,5,7,1936,0,1.64,Buono,498200
+Centro Storico,75,2,3,2000,1,1.96,Ristrutturato,575500
+EUR,111,5,6,1979,1,0.46,Buono,482400
+San Giovanni,61,2,6,2014,1,0.62,Ristrutturato,308200
+Prati,90,3,6,1918,1,1.15,Buono,592300
+Tuscolana,96,2,7,1973,1,7.73,Buono,244700
+Tuscolana,80,4,1,1903,0,0.51,Nuovo,243500
+Parioli,97,4,4,1943,1,1.13,Ristrutturato,757400
+EUR,77,4,0,1901,0,3.3,Nuovo,325500
+Prati,66,1,2,1954,1,0.83,Da ristrutturare,359500
+San Giovanni,133,5,0,1999,0,0.77,Buono,535900
+Prati,116,5,5,1980,1,0.49,Buono,806300
+EUR,62,2,4,1938,1,1.09,Buono,226600
+San Giovanni,102,5,5,1952,1,0.32,Buono,408700
