@@ -1,17 +1,17 @@
-id,nome,categoria,prezzo,giacenza
-1,Cuffie,Elettronica,59.9,12
-2,Smartwatch,Elettronica,149.0,106
-3,Tablet,Elettronica,299.0,49
-4,Cavo USB-C,Elettronica,9.9,1
-5,Lampada,Casa,39.0,119
-6,Set pentole,Casa,89.0,134
-7,Cuscino,Casa,19.9,189
-8,T-shirt,Abbigliamento,14.9,27
-9,Giacca,Abbigliamento,79.0,174
-10,Jeans,Abbigliamento,49.9,187
-11,Tappetino yoga,Sport,24.9,58
-12,Borraccia,Sport,12.5,124
-13,Scarpe running,Sport,99.0,10
-14,Romanzo,Libri,16.0,136
-15,Manuale Python,Libri,34.9,190
-16,Fumetto,Libri,7.5,109
+id,nome,categoria,prezzo,giacenza,venduti
+1,Cuffie,Elettronica,59.9,12,10
+2,Smartwatch,Elettronica,149.0,106,54
+3,Tablet,Elettronica,299.0,49,32
+4,Cavo USB-C,Elettronica,9.9,1,10
+5,Lampada,Casa,39.0,119,95
+6,Set pentole,Casa,89.0,134,23
+7,Cuscino,Casa,19.9,189,98
+8,T-shirt,Abbigliamento,14.9,27,243
+9,Giacca,Abbigliamento,79.0,174,187
+10,Jeans,Abbigliamento,49.9,187,205
+11,Tappetino yoga,Sport,24.9,58,57
+12,Borraccia,Sport,12.5,124,120
+13,Scarpe running,Sport,99.0,10,76
+14,Romanzo,Libri,16.0,136,98
+15,Manuale Python,Libri,34.9,190,43
+16,Fumetto,Libri,7.5,109,250
